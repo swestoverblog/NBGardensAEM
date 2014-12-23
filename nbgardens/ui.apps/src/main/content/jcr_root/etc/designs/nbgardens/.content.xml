@@ -7,7 +7,7 @@
         cq:lastModified="{Date}2014-05-26T11:36:23.166+02:00"
         cq:lastModifiedBy="admin"
         jcr:primaryType="nt:unstructured"
-        jcr:title="NewArchetype Demo Site"
+        jcr:title="NewArchetype Demo Site!"
         sling:resourceType="wcm/core/components/designer">
         <page-home jcr:primaryType="nt:unstructured">
             <par
@@ -60,6 +60,5 @@
             </logo>
         </page>
     </jcr:content>
-    <images/>
     <favicon.ico/>
 </jcr:root>

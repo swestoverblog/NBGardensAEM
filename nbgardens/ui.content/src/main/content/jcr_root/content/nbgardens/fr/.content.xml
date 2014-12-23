@@ -21,7 +21,7 @@
                 jcr:lastModifiedBy="admin"
                 jcr:mixinTypes="[cq:LiveRelationship,cq:LiveSyncCancelled]"
                 jcr:primaryType="nt:unstructured"
-                jcr:title="&#xa;&#xa;&#xa;Nouveau project pour AEM 6.0&#xa;&#xa;&#xa;"
+                jcr:title="&#xa;&#xa;&#xa;Nouveau project pour AEM 6.0&#xa;&#xa;&#xa;!"
                 sling:resourceType="nbgardens/components/content/title"
                 type="extralarge"/>
             <title_0
@@ -30,7 +30,7 @@
                 jcr:lastModified="{Date}2014-06-17T12:17:13.480+02:00"
                 jcr:lastModifiedBy="admin"
                 jcr:primaryType="nt:unstructured"
-                jcr:title="&#xa;Service Component&#xa;"
+                jcr:title="&#xa;Service Component&#xa;!"
                 sling:resourceType="nbgardens/components/content/title"/>
             <servicecomponent
                 jcr:created="{Date}2014-06-17T12:17:15.546+02:00"
@@ -46,7 +46,7 @@
                 jcr:lastModifiedBy="admin"
                 jcr:mixinTypes="[cq:LiveRelationship,cq:LiveSyncCancelled]"
                 jcr:primaryType="nt:unstructured"
-                jcr:title="Lorem ipsum"
+                jcr:title="Lorem ipsum!"
                 sling:resourceType="nbgardens/components/content/title"/>
             <text
                 jcr:created="{Date}2014-05-19T14:06:27.681+02:00"
