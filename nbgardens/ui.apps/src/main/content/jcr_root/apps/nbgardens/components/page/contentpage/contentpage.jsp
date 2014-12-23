@@ -1,8 +1,5 @@
+<%@include file="/libs/foundation/global.jsp"%>
 <html>
-    <head>
-        <title>Hello World!!!</title>
-    </head>
-    <body>
-        <h1>hi all</hi>
-    </body>
+    <cq:include script="head.jsp" />
+    <cq:include script="body.jsp" />
 </html>

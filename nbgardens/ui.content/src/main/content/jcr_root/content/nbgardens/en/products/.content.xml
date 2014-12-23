@@ -4,24 +4,22 @@
     <jcr:content
         cq:allowedTemplates="[/apps/nbgardens/templates/contentpage]"
         cq:designPath="/etc/designs/nbdesign"
-        cq:lastModified="{Date}2014-12-23T17:10:19.016Z"
+        cq:lastModified="{Date}2014-12-23T17:10:29.787Z"
         cq:lastModifiedBy="admin"
         cq:template="/apps/nbgardens/templates/contentpage"
         jcr:isCheckedOut="{Boolean}true"
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
-        jcr:title="English"
-        jcr:uuid="c579396e-0bdd-488e-ae6d-74b4fcc6ae80"
+        jcr:title="Products"
+        jcr:uuid="934c8cd1-1a5d-4300-b17d-24d017adabb2"
         sling:resourceType="nbgardens/components/page/contentpage">
         <par
             jcr:primaryType="nt:unstructured"
             sling:resourceType="foundation/components/parsys"/>
         <image
-            jcr:lastModified="{Date}2014-12-23T17:10:19.009Z"
+            jcr:lastModified="{Date}2014-12-23T17:10:29.785Z"
             jcr:lastModifiedBy="admin"
             jcr:primaryType="nt:unstructured"
             imageRotate="0"/>
     </jcr:content>
-    <products/>
-    <fdsg/>
 </jcr:root>

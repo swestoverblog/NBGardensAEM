@@ -2,21 +2,16 @@
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:allowedTemplates="[/apps/nbgardens/templates/page-home]"
+        cq:allowedTemplates="[/apps/nbgardens/templates/contentpage]"
         cq:designPath="/etc/designs/nbgardens"
-        cq:lastModified="{Date}2014-06-16T12:53:22.497+02:00"
+        cq:lastModified="{Date}2014-12-23T17:10:02.347Z"
         cq:lastModifiedBy="admin"
-        cq:template="/apps/nbgardens/templates/page-home"
+        cq:template="/apps/nbgardens/templates/contentpage"
         jcr:primaryType="nt:unstructured"
         jcr:title="NBGardens Site"
         sling:redirect="{Boolean}true"
         sling:redirectStatus="{Long}302"
         sling:resourceType="foundation/components/redirect"
-        redirectTarget="/content/nbgardens/en">
-        <image jcr:primaryType="nt:unstructured">
-            <file/>
-        </image>
-    </jcr:content>
+        redirectTarget="/content/nbgardens/en"/>
     <en/>
-    <fr/>
 </jcr:root>
