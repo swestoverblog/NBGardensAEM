@@ -81,4 +81,4 @@ excellon.txt
 *.ADPT
 *.AZO
 
-.metadata/*
+.metadata
