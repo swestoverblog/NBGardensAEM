@@ -1,0 +1,3 @@
+INDEX VERSION 1.126
+C:\Users\training12\Desktop\AEMProject\NBGardensAEM\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1622894190.index
+\nbgardens.ui.apps\src\main\content\META-INF

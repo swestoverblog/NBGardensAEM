@@ -1,0 +1,1564 @@
+!SESSION 2014-12-23 12:13:17.075 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.7.0_67
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-12-23 12:13:40.877
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-12-23 12:13:40.892
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\training12'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:14:59.944
+!MESSAGE Manifest org.netbuilder.nbgardens:nbgardens.core:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:14:59.944
+!MESSAGE Manifest org.netbuilder.nbgardens:nbgardens.core:bundle:0.0.1-SNAPSHOT : The JAR is empty: The instructions for the JAR named org.netbuilder.nbgardens.core did not cause any content to be included, this is likely wrong
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:10.022
+!MESSAGE Manifest org.netbuilder.nbgardens:nbgardens.it.tests:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:10.022
+!MESSAGE Manifest org.netbuilder.nbgardens:nbgardens.it.tests:bundle:0.0.1-SNAPSHOT : Unused Export-Package instructions: [nbgardens.it.tests.*] 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:10.022
+!MESSAGE Manifest org.netbuilder.nbgardens:nbgardens.it.tests:bundle:0.0.1-SNAPSHOT : The JAR is empty: The instructions for the JAR named org.netbuilder.nbgardens.it.tests did not cause any content to be included, this is likely wrong
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.466
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\maven-bundle-plugin\2.5.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.482
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\felix-parent\2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.482
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\apache\9\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.497
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\biz\aQute\bnd\bndlib\2.3.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.497
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\biz\aQute\bnd\parent\2.3.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.513
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\osgi\org.osgi.core\4.3.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.513
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\org.apache.felix.bundlerepository\1.6.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.513
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\osgi\org.osgi.core\4.1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.529
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\easymock\easymock\2.4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.529
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\org.apache.felix.utils\1.6.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.544
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\osgi\org.osgi.compendium\4.2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.544
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-core\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.544
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.560
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-parent\5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.560
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\apache\3\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.575
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-settings\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.575
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-model\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.575
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-utils\1.4.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.591
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus\1.0.11\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.591
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-container-default\1.0-alpha-9-stable-1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.607
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-containers\1.0.3\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.607
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus\1.0.4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.607
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\junit\junit\3.8.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.622
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-utils\1.0.4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.622
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\classworlds\classworlds\1.1-alpha-2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.653
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-parameter-documenter\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.653
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\reporting\maven-reporting-api\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.653
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\reporting\maven-reporting\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.669
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-sink-api\1.0-alpha-7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.669
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia\1.0-alpha-7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.685
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-profile\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.685
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-artifact\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.685
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-repository-metadata\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.700
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-error-diagnostics\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.700
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-project\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.716
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-artifact-manager\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.716
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-registry\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.731
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-cli\commons-cli\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.731
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-api\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.747
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-descriptor\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.747
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-interactivity-api\1.0-alpha-4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.763
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-monitor\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.763
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\classworlds\classworlds\1.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.778
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-archiver\2.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.778
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\shared\maven-shared-components\17\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.778
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-parent\21\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.794
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\apache\10\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.794
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-artifact\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.794
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.809
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-model\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.809
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-core\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.809
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-settings\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.825
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-parameter-documenter\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.825
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\reporting\maven-reporting-api\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.841
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\reporting\maven-reporting\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.841
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-profile\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.856
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-repository-metadata\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.856
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-error-diagnostics\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.856
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-project\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.872
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-artifact-manager\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.872
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-registry\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.887
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-api\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.887
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-descriptor\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.887
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-monitor\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.903
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-archiver\2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.903
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\sonatype\spice\spice-parent\17\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.919
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\sonatype\forge\forge-parent\10\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.919
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-utils\3.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.919
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\sonatype\spice\spice-parent\16\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.934
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\sonatype\forge\forge-parent\5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.934
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-io\2.0.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.950
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-components\1.1.19\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.950
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus\3.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.950
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-interpolation\1.15\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.965
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\shared\maven-dependency-tree\2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.965
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\shared\maven-shared-components\19\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.965
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-parent\23\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.981
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\apache\13\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.981
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-project\2.2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.997
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven\2.2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.997
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-parent\11\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:22.997
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\apache\5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.043
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-settings\2.2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.043
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-model\2.2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.199
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-utils\1.5.15\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.215
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus\2.0.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.231
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-interpolation\1.11\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.246
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-components\1.1.14\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.246
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-profile\2.2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.262
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-artifact-manager\2.2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.277
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-repository-metadata\2.2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.293
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-artifact\2.2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.293
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\backport-util-concurrent\backport-util-concurrent\3.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.340
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-registry\2.2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.340
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-component-annotations\1.5.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.355
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-containers\1.5.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.355
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.355
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\eclipse\aether\aether-util\0.9.0.M2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.371
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\eclipse\aether\aether\0.9.0.M2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.371
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-utils\3.0.10\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.387
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus\3.3\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.449
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-sink-api\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.449
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.449
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-parent\10\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.465
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\apache\4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.465
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-site-renderer\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.465
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-sitetools\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.480
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-core\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.496
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-utils\1.5.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.496
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-container-default\1.0-alpha-30\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.496
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-containers\1.0-alpha-30\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.511
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-utils\1.4.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.511
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-classworlds\1.2-alpha-9\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.527
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus\1.0.10\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.527
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-i18n\1.0-beta-7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.527
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-components\1.1.12\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.543
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-velocity\1.1.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.543
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-container-default\1.0-alpha-20\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.558
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-containers\1.0-alpha-20\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.558
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-utils\1.3\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.558
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus\1.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.574
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-classworlds\1.2-alpha-7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.574
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus\1.0.9\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.574
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\velocity\velocity\1.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.589
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-collections\commons-collections\3.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.589
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-lang\commons-lang\2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.589
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\oro\oro\2.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.605
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-decoration-model\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.605
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-collections\commons-collections\3.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.621
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-module-apt\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.621
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-modules\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.636
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-module-fml\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.652
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-module-xdoc\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.652
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-module-xhtml\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.667
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\maven-bundle-plugin\2.5.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.667
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\biz\aQute\bnd\bndlib\2.3.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.667
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\osgi\org.osgi.core\4.3.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.667
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\org.apache.felix.bundlerepository\1.6.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.667
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\easymock\easymock\2.4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.683
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\org.apache.felix.utils\1.6.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.683
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\osgi\org.osgi.compendium\4.2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.683
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\reporting\maven-reporting-api\2.0.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.683
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\junit\junit\3.8.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.683
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-cli\commons-cli\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.699
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-interactivity-api\1.0-alpha-4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.699
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-archiver\2.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.699
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-archiver\2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.699
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-io\2.0.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.699
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-interpolation\1.15\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.714
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\shared\maven-dependency-tree\2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.714
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-component-annotations\1.5.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.714
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\eclipse\aether\aether-util\0.9.0.M2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.714
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-utils\3.0.10\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.730
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-sink-api\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.730
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-site-renderer\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.777
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-core\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.777
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-i18n\1.0-beta-7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.777
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-velocity\1.1.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.777
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\velocity\velocity\1.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.792
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-lang\commons-lang\2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.792
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\oro\oro\2.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.792
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-decoration-model\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.808
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-collections\commons-collections\3.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.808
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-module-apt\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.808
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-module-fml\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.808
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-module-xdoc\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.808
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-module-xhtml\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.870
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\com\day\jcr\vault\content-package-maven-plugin\0.0.23\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.870
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\com\day\jcr\vault\content-package-maven-plugin-parent\0.0.23\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.870
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-api\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.886
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.886
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-project\2.2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.886
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven\2.2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.901
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-settings\2.2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.901
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-model\2.2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.901
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-profile\2.2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.917
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-artifact-manager\2.2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.917
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-repository-metadata\2.2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.933
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-artifact\2.2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.933
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-registry\2.2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.933
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-archiver\2.3\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.948
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\shared\maven-shared-components\8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.948
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-parent\7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.948
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-artifact\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.964
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-model\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.964
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-project\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.964
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-profile\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.979
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-container-default\1.0-alpha-8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.979
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-artifact-manager\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.979
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-repository-metadata\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.995
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-archiver\1.0-alpha-9\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.995
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-components\1.1.9\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:23.995
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-container-default\1.0-alpha-15\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.011
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-containers\1.0-alpha-15\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.011
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-classworlds\1.2-alpha-6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.011
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-io\1.0-alpha-1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.026
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-container-default\1.0-alpha-9\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.026
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-utils\1.4.9\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.026
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\sonatype\plexus\plexus-sec-dispatcher\1.3\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.042
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\sonatype\spice\spice-parent\12\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.042
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\sonatype\forge\forge-parent\4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.042
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-utils\1.5.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.057
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\sonatype\plexus\plexus-cipher\1.4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.057
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-httpclient\commons-httpclient\3.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.057
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-logging\commons-logging\1.0.4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.073
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-codec\commons-codec\1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.073
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\slf4j\slf4j-api\1.5.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.073
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\slf4j\slf4j-parent\1.5.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.089
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\mojo\animal-sniffer-maven-plugin\1.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.089
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\mojo\animal-sniffer-parent\1.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.089
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\mojo\mojo-parent\28\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.104
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\codehaus-parent\3\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.104
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\mojo\animal-sniffer\1.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.120
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\ow2\asm\asm-all\4.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.120
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\ow2\asm\asm-parent\4.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.135
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\ow2\ow2\1.3\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.135
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\mojo\java-boot-classpath-detector\1.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.151
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-api\2.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.151
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven\2.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.151
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-core\2.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.167
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-settings\2.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.167
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-model\2.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.167
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-utils\1.0.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.182
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-parameter-documenter\2.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.182
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\reporting\maven-reporting-api\2.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.182
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\reporting\maven-reporting\2.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.198
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-sink-api\1.0-alpha-6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.198
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia\1.0-alpha-6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.198
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-profile\2.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.213
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-artifact\2.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.213
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-repository-metadata\2.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.213
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-error-diagnostics\2.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.229
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-project\2.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.229
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-artifact-manager\2.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.245
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-registry\2.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.291
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-descriptor\2.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.291
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-monitor\2.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.307
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-toolchain\2.2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.307
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-core\2.2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.323
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-parameter-documenter\2.2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.323
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\slf4j\slf4j-jdk14\1.5.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.323
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\slf4j\slf4j-parent\1.5.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.338
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\slf4j\slf4j-api\1.5.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.338
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\slf4j\jcl-over-slf4j\1.5.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.354
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\reporting\maven-reporting-api\2.2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.354
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\reporting\maven-reporting\2.2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.369
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-sink-api\1.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.369
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia\1.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.369
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-logging-api\1.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.401
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-error-diagnostics\2.2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.401
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-cli\commons-cli\1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.416
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\commons\commons-parent\11\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.416
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-api\2.2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.416
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-descriptor\2.2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.432
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-monitor\2.2.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.432
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\shared\maven-common-artifact-filters\1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.447
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\shared\maven-shared-components\11\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.447
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-artifact\2.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.447
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven\2.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.447
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-parent\6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.463
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-utils\1.4.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.479
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-model\2.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.479
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-project\2.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.479
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-settings\2.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.494
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-profile\2.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.494
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-artifact-manager\2.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.494
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-repository-metadata\2.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.510
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-registry\2.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.510
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-api\2.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.525
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\shared\maven-plugin-testing-harness\1.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.525
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\shared\maven-shared-components\7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.541
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-core\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.541
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-settings\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.541
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-parameter-documenter\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.557
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\reporting\maven-reporting-api\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.557
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\reporting\maven-reporting\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.557
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\doxia\doxia-sink-api\1.0-alpha-4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.572
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-error-diagnostics\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.572
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-registry\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.572
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-plugin-descriptor\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.588
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-monitor\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.588
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-utils\1.4.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.603
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-archiver\1.0-alpha-7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.603
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-components\1.1.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.603
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-utils\1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.603
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus\1.0.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.619
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-utils\1.5.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.619
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus\1.0.12\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.619
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.commons.json\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.635
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\sling\10\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.635
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\apache\8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.650
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\com\day\jcr\vault\content-package-maven-plugin\0.0.23\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.650
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\backport-util-concurrent\backport-util-concurrent\3.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.650
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-interpolation\1.11\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.650
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\junit\junit\3.8.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.650
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\maven-archiver\2.3\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.666
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-archiver\1.0-alpha-9\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.666
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-io\1.0-alpha-1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.666
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-utils\1.4.9\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.666
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\sonatype\plexus\plexus-sec-dispatcher\1.3\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.681
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\sonatype\plexus\plexus-cipher\1.4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.681
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-httpclient\commons-httpclient\3.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.681
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-logging\commons-logging\1.0.4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.681
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-codec\commons-codec\1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.681
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\slf4j\slf4j-api\1.5.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.697
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\mojo\animal-sniffer-maven-plugin\1.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.697
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\mojo\animal-sniffer\1.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.697
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\ow2\asm\asm-all\4.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.697
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\mojo\java-boot-classpath-detector\1.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.697
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\reporting\maven-reporting-api\2.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.713
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\doxia\doxia-sink-api\1.0-alpha-6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.713
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-cli\commons-cli\1.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.713
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\plexus\plexus-interactivity-api\1.0-alpha-4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.713
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\shared\maven-common-artifact-filters\1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.713
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\shared\maven-plugin-testing-harness\1.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.728
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.commons.json\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.806
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-clean-plugin\2.4.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.806
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-enforcer-plugin\1.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.822
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-resources-plugin\2.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.822
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-compiler-plugin\2.0.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.822
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\maven-scr-plugin\1.17.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.837
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-resources-plugin\2.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.837
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-compiler-plugin\2.0.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.837
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-surefire-plugin\2.17\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.837
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\maven-bundle-plugin\2.5.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.853
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-install-plugin\2.3.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.853
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\maven-bundle-plugin\2.5.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.853
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-deploy-plugin\2.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.869
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\maven-bundle-plugin\2.5.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.869
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-site-plugin\3.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.884
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\org.apache.felix.scr\1.6.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.884
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\felix-parent\1.2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.900
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\org.apache.felix.scr.annotations\1.9.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.900
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\biz\aQute\bndlib\1.50.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.900
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\osgi\org.osgi.core\4.2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.900
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\slf4j\slf4j-api\1.5.11\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.915
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\slf4j\slf4j-parent\1.5.11\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.915
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\javax\jcr\jcr\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.915
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\javax\servlet\servlet-api\2.4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.931
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\com\adobe\aem\aem-api\6.0.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.931
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\junit\junit\4.8.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.931
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\mockito\mockito-all\1.9.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.947
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\junit-addons\junit-addons\1.4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.947
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\xerces\xercesImpl\2.6.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.947
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\xerces\xmlParserAPIs\2.6.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.947
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\org.apache.felix.scr\1.6.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.962
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\org.apache.felix.scr.annotations\1.9.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.962
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\biz\aQute\bndlib\1.50.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.962
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\osgi\org.osgi.core\4.2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.962
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\osgi\org.osgi.compendium\4.2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.962
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\slf4j\slf4j-api\1.5.11\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.978
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\javax\jcr\jcr\2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.978
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\javax\servlet\servlet-api\2.4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.978
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\com\adobe\aem\aem-api\6.0.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.978
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\junit\junit\4.8.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.978
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\mockito\mockito-all\1.9.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.993
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\junit-addons\junit-addons\1.4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.993
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\xerces\xercesImpl\2.6.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:24.993
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\xerces\xmlParserAPIs\2.6.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.009
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-clean-plugin\2.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.009
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-enforcer-plugin\1.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.009
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-resources-plugin\2.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.025
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-dependency-plugin\2.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.025
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-dependency-plugin\2.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.025
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\codehaus\mojo\build-helper-maven-plugin\1.9\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.040
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-compiler-plugin\2.0.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.040
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-resources-plugin\2.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.040
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-compiler-plugin\2.0.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.040
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-surefire-plugin\2.17\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.056
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-jar-plugin\2.3.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.056
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-install-plugin\2.3.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.056
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-deploy-plugin\2.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.071
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-site-plugin\3.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.087
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.junit.core\1.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.087
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\sling\14\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.103
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\apache\12\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.118
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.junit.scriptable\1.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.118
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.junit.remote\1.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.134
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.testing.tools\1.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.149
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\commons\commons-exec\1.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.149
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\commons\commons-parent\17\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.149
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\apache\7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.165
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpcore\4.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.165
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpcomponents-core\4.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.165
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\project\4.1.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.181
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpclient\4.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.181
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpcomponents-client\4.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.181
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-logging\commons-logging\1.1.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.196
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\commons\commons-parent\5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.196
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-codec\commons-codec\1.4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.196
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpmime\4.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.212
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.testing.tools\1.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.212
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\sling\19\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.212
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\apache\14\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.227
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.servlets.post\2.3.4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.227
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\sling\18\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.243
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpclient-osgi\4.1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.243
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpcomponents-client\4.1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.259
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpclient\4.1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.259
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpcore\4.1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.259
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpcomponents-core\4.1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.274
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpmime\4.1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.274
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpclient-cache\4.1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.274
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpcore-osgi\4.1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.290
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpcore-nio\4.1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.290
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.launchpad\6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.305
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.launchpad.base\2.3.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.305
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-io\commons-io\1.4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.305
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\commons\commons-parent\7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.321
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\slf4j\slf4j-simple\1.5.11\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.337
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.junit.core\1.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.337
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.junit.scriptable\1.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.337
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.junit.remote\1.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.352
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.testing.tools\1.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.352
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\commons\commons-exec\1.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.352
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpcore\4.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.352
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpclient\4.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.352
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-logging\commons-logging\1.1.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.368
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpmime\4.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.368
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.servlets.post\2.3.4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.368
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpclient-osgi\4.1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.368
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-codec\commons-codec\1.4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.368
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpclient-cache\4.1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.383
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpcore-osgi\4.1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.383
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\httpcomponents\httpcore-nio\4.1.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.383
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.commons.json\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.383
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.launchpad\6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.383
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.launchpad.base\2.3.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.399
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\slf4j\slf4j-api\1.5.11\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.399
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\commons-io\commons-io\1.4\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.399
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\slf4j\slf4j-simple\1.5.11\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.399
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\junit\junit\4.8.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.415
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-clean-plugin\2.4.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.415
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-enforcer-plugin\1.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.415
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-resources-plugin\2.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.430
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-resources-plugin\2.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.430
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-compiler-plugin\2.0.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.430
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\com\day\jcr\vault\content-package-maven-plugin\0.0.23\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.446
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-resources-plugin\2.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.446
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-compiler-plugin\2.0.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.446
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-surefire-plugin\2.17\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.446
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\com\day\jcr\vault\content-package-maven-plugin\0.0.23\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.461
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-install-plugin\2.3.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.461
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-deploy-plugin\2.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.461
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-site-plugin\3.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.477
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\com\adobe\aem\aem-api\6.0.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.493
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-clean-plugin\2.4.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.493
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-enforcer-plugin\1.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.493
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-resources-plugin\2.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.508
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-resources-plugin\2.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.508
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-compiler-plugin\2.0.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.508
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\com\day\jcr\vault\content-package-maven-plugin\0.0.23\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.524
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-resources-plugin\2.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.524
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-compiler-plugin\2.0.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.524
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-surefire-plugin\2.17\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.524
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\com\day\jcr\vault\content-package-maven-plugin\0.0.23\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.539
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-install-plugin\2.3.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.539
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-deploy-plugin\2.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.539
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-site-plugin\3.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.555
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\com\adobe\aem\aem-api\6.0.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.571
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-clean-plugin\2.4.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.571
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-enforcer-plugin\1.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.586
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-resources-plugin\2.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.586
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-compiler-plugin\2.0.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.586
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\maven-scr-plugin\1.17.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.602
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-resources-plugin\2.5\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.602
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-compiler-plugin\2.0.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.602
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-surefire-plugin\2.17\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.602
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\maven-bundle-plugin\2.5.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.617
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-install-plugin\2.3.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.617
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\maven-bundle-plugin\2.5.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.617
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-deploy-plugin\2.7\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.633
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\maven-bundle-plugin\2.5.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.633
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\maven\plugins\maven-site-plugin\3.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.649
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\osgi\org.osgi.core\4.2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.649
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\osgi\org.osgi.compendium\4.2.0\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.649
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\felix\org.apache.felix.scr.annotations\1.9.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.649
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\slf4j\slf4j-api\1.5.11\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.664
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\junit\junit\4.8.2\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.664
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.junit.core\1.0.8\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.664
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\org\apache\sling\org.apache.sling.commons.json\2.0.6\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:25.664
+!MESSAGE Failed to read resolution tracking file C:\Users\training12\.m2\repository\com\adobe\aem\aem-api\6.0.0.1\_maven.repositories null
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:27.310
+!MESSAGE AsyncHttpClient.close() hasn't been invoked, which may produce file descriptor leaks
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:38.531
+!MESSAGE Manifest org.netbuilder.nbgardens:nbgardens.core:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:38.531
+!MESSAGE Manifest org.netbuilder.nbgardens:nbgardens.core:bundle:0.0.1-SNAPSHOT : The JAR is empty: The instructions for the JAR named org.netbuilder.nbgardens.core did not cause any content to be included, this is likely wrong
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:45.349
+!MESSAGE Manifest org.netbuilder.nbgardens:nbgardens.it.tests:bundle:0.0.1-SNAPSHOT : Unused Private-Package instructions, no such package(s) on the class path: [!*]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:45.349
+!MESSAGE Manifest org.netbuilder.nbgardens:nbgardens.it.tests:bundle:0.0.1-SNAPSHOT : Unused Export-Package instructions: [nbgardens.it.tests.*] 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:45.349
+!MESSAGE Manifest org.netbuilder.nbgardens:nbgardens.it.tests:bundle:0.0.1-SNAPSHOT : The JAR is empty: The instructions for the JAR named org.netbuilder.nbgardens.it.tests did not cause any content to be included, this is likely wrong
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:49.514
+!MESSAGE Authentication required to access repository descriptors
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-12-23 12:15:56.175
+!MESSAGE Manifest org.netbuilder.nbgardens:nbgardens.it.tests:bundle:0.0.1-SNAPSHOT : Unused Export-Package instructions: [nbgardens.it.tests.*] 
+
+!ENTRY org.apache.sling.ide.eclipse-core 4 0 2014-12-23 12:16:22.956
+!MESSAGE Publishing failed
+!SUBENTRY 1 org.apache.sling.ide.eclipse-core 4 0 2014-12-23 12:16:22.956
+!MESSAGE Failed installing bundle : Unable to install/update bundle from dir C:\Users\training12\Desktop\AEMProject\NBGardensAEM\nbgardens\core\target\classes : Unresolved constraint in bundle org.netbuilder.nbgardens.core [300]: Unable to resolve 300.0: missing requirement [300.0] osgi.wiring.package; (&(osgi.wiring.package=org.apache.sling.api)(version>=2.3.0)(!(version>=3.0.0)))
+!STACK 0
+org.apache.sling.ide.osgi.OsgiClientException: Unable to install/update bundle from dir C:\Users\training12\Desktop\AEMProject\NBGardensAEM\nbgardens\core\target\classes : Unresolved constraint in bundle org.netbuilder.nbgardens.core [300]: Unable to resolve 300.0: missing requirement [300.0] osgi.wiring.package; (&(osgi.wiring.package=org.apache.sling.api)(version>=2.3.0)(!(version>=3.0.0)))
+	at org.apache.sling.ide.osgi.impl.HttpOsgiClient$LocalBundleInstaller.installBundle(HttpOsgiClient.java:216)
+	at org.apache.sling.ide.osgi.impl.HttpOsgiClient.installLocalBundle(HttpOsgiClient.java:172)
+	at org.apache.sling.ide.osgi.impl.TracingOsgiClient.logInstallLocalBundle(TracingOsgiClient.java:75)
+	at org.apache.sling.ide.osgi.impl.TracingOsgiClient.installLocalBundle(TracingOsgiClient.java:57)
+	at org.apache.sling.ide.eclipse.core.internal.SlingLaunchpadBehaviour.publishBundleModule(SlingLaunchpadBehaviour.java:339)
+	at org.apache.sling.ide.eclipse.core.internal.SlingLaunchpadBehaviour.publishModule(SlingLaunchpadBehaviour.java:219)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.apache.sling.ide.eclipse.core.internal.ServerBehaviourDelegateWithModulePublishSupport.publish(ServerBehaviourDelegateWithModulePublishSupport.java:137)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.apache.sling.ide.eclipse.core.internal.ServerBehaviourDelegateWithModulePublishSupport.publish(ServerBehaviourDelegateWithModulePublishSupport.java:54)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3154)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:345)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.apache.sling.ide.eclipse-core 4 0 2014-12-23 12:16:22.956
+!MESSAGE Failed installing bundle : Unable to install/update bundle from dir C:\Users\training12\Desktop\AEMProject\NBGardensAEM\nbgardens\it.tests\target\classes : Unresolved constraint in bundle org.netbuilder.nbgardens.it.tests [301]: Unable to resolve 301.0: missing requirement [301.0] osgi.wiring.package; (&(osgi.wiring.package=org.apache.sling.settings)(version>=1.3.0)(!(version>=2.0.0)))
+!STACK 0
+org.apache.sling.ide.osgi.OsgiClientException: Unable to install/update bundle from dir C:\Users\training12\Desktop\AEMProject\NBGardensAEM\nbgardens\it.tests\target\classes : Unresolved constraint in bundle org.netbuilder.nbgardens.it.tests [301]: Unable to resolve 301.0: missing requirement [301.0] osgi.wiring.package; (&(osgi.wiring.package=org.apache.sling.settings)(version>=1.3.0)(!(version>=2.0.0)))
+	at org.apache.sling.ide.osgi.impl.HttpOsgiClient$LocalBundleInstaller.installBundle(HttpOsgiClient.java:216)
+	at org.apache.sling.ide.osgi.impl.HttpOsgiClient.installLocalBundle(HttpOsgiClient.java:172)
+	at org.apache.sling.ide.osgi.impl.TracingOsgiClient.logInstallLocalBundle(TracingOsgiClient.java:75)
+	at org.apache.sling.ide.osgi.impl.TracingOsgiClient.installLocalBundle(TracingOsgiClient.java:57)
+	at org.apache.sling.ide.eclipse.core.internal.SlingLaunchpadBehaviour.publishBundleModule(SlingLaunchpadBehaviour.java:339)
+	at org.apache.sling.ide.eclipse.core.internal.SlingLaunchpadBehaviour.publishModule(SlingLaunchpadBehaviour.java:219)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.apache.sling.ide.eclipse.core.internal.ServerBehaviourDelegateWithModulePublishSupport.publish(ServerBehaviourDelegateWithModulePublishSupport.java:137)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.apache.sling.ide.eclipse.core.internal.ServerBehaviourDelegateWithModulePublishSupport.publish(ServerBehaviourDelegateWithModulePublishSupport.java:54)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3154)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:345)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-12-23 12:20:15.363
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2014-12-23 12:20:15.363
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2014-12-23 12:20:15.363
+!MESSAGE "Sling IDE Tools, M2e-based" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2014-12-23 12:20:15.363
+!MESSAGE "Sling IDE Tools" will be ignored because a newer version is already installed. 
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2014-12-23 12:20:15.378
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2014-12-23 12:20:15.378
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2014-12-23 12:20:15.378
+!MESSAGE "Sling IDE Tools, M2e-based" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10004 2014-12-23 12:20:15.378
+!MESSAGE "Sling IDE Tools" will be ignored because a newer version is already installed. 
