@@ -1,0 +1,5 @@
+package com.adobe.aem.sql;
+
+public class ProductService {
+
+}
