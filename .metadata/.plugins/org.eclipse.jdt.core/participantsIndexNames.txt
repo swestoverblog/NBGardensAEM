@@ -1,3 +1,7 @@
 INDEX VERSION 1.126
-C:\Users\training12\Desktop\AEMProject\NBGardensAEM\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1622894190.index
+C:\Users\training12\Desktop\New folder (2)\NBGardensAEM\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1622894190.index
+\nbgardens.ui.apps\src\main\content\META-INF
+C:\Users\training12\Desktop\New folder (2)\NBGardensAEM\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3564832664.index
+\nbgardens.ui.apps\src\main\content\META-INF
+C:\Users\training12\Desktop\New folder (2)\NBGardensAEM\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\160193613.index
 \nbgardens.ui.apps\src\main\content\META-INF
