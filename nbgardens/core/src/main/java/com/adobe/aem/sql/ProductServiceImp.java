@@ -63,7 +63,7 @@ public class ProductServiceImp implements ProductService {
                //Set the PK value
                int pkVal = rowCount + 2; 
                   
-               String insert = "INSERT INTO Prod(custId,custFirst,custLast,custAddress,custDesc) VALUES(?, ?, ?, ?, ?);";
+               String insert = "INSERT INTO Prod(prodId,prodName,prodDesc,prodQun,custDesc) VALUES(?, ?, ?, ?, ?);";
                ps = c.prepareStatement(insert);
                ps.setInt(1, pkVal);
                ps.setString(2, firstName);
