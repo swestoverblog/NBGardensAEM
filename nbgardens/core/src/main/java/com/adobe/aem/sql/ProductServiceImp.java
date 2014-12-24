@@ -63,13 +63,14 @@ public class ProductServiceImp implements ProductService {
                //Set the PK value
                int pkVal = rowCount + 2; 
                   
-               String insert = "INSERT INTO Prod(prodId,prodName,prodDesc,prodQun,custDesc) VALUES(?, ?, ?, ?, ?);";
+               String insert = "INSERT INTO Prod(prodId,prodName,prodDesc,prodQun,prodCust,prodCat) VALUES(?, ?, ?, ?, ?, ?);";
                ps = c.prepareStatement(insert);
                ps.setInt(1, pkVal);
-               ps.setString(2, firstName);
-               ps.setString(3, lastName);
-               ps.setString(4, address);
-               ps.setString(5, desc);
+               ps.setString(2, name);
+               ps.setString(3, description);
+               ps.setString(4, quantity);
+               ps.setString(5, customize);
+               ps.setString(6, category);
                ps.execute();
                return pkVal;
         }
@@ -175,7 +176,7 @@ public class ProductServiceImp implements ProductService {
              //Get the Product object from the collection
              Product myProd = (Product)prodList.get(index);
                             
-             Element Produc = doc.createElement( "Product" );
+             Element Product = doc.createElement( "Product" );
              root.appendChild( Product );
                              
              //Add rest of data as child elements to customer
