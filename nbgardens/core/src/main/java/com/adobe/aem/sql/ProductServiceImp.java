@@ -63,7 +63,7 @@ public class ProductServiceImp implements ProductService {
                //Set the PK value
                int pkVal = rowCount + 2; 
                   
-               String insert = "INSERT INTO Customer(custId,custFirst,custLast,custAddress,custDesc) VALUES(?, ?, ?, ?, ?);";
+               String insert = "INSERT INTO Prod(custId,custFirst,custLast,custAddress,custDesc) VALUES(?, ?, ?, ?, ?);";
                ps = c.prepareStatement(insert);
                ps.setInt(1, pkVal);
                ps.setString(2, firstName);
@@ -124,20 +124,21 @@ public class ProductServiceImp implements ProductService {
                while (rs.next()) 
                {
                    //for each pass - create a Customer object
-                   cust = new Customer(); 
+                   prod = new Product(); 
                      
                    //Populate customer members with data from MySQL
                    int custId = rs.getInt(1);
                    String id = Integer.toString(custId);
-                   cust.setCustId(id); 
+                   prod.setProductId(id);
                      
-                   cust.setCustFirst(rs.getString(2));
-                   cust.setCustLast(rs.getString(3));
-                   cust.setCustAddress(rs.getString(4));
-                   cust.setCustDescription(rs.getString(5));
+                   prod.setProductName(rs.getString(2));
+                   prod.setProductDescription(rs.getString(3));
+                   prod.setProductQuantity(rs.getString(4));
+                   prod.setProductCustomize(rs.getString(5));
+                   prod.setProductCategory(rs.getString(6));
                      
                  //Push Customer to the list
-                 custList.add(cust);
+                 custList.add(prod);
                       
                }             
                //return xml that contains all customer taken from MySQL
@@ -154,7 +155,7 @@ public class ProductServiceImp implements ProductService {
            
     //Convert Customer data retrieved from the AEM JCR
     //into an XML schema to pass back to client
-    private Document toXml(List<Customer> custList) {
+    private Document toXml(List<Product> prodList) {
     try
     {
         DocumentBuilderFactory factory =     DocumentBuilderFactory.newInstance();
@@ -162,41 +163,46 @@ public class ProductServiceImp implements ProductService {
         Document doc = builder.newDocument();
                        
         //Start building the XML to pass back to the AEM client
-        Element root = doc.createElement( "Customers" );
+        Element root = doc.createElement( "Products" );
         doc.appendChild( root );
                     
         //Get the elements from the collection
-        int custCount = custList.size();
+        int custCount = prodList.size();
           
         //Iterate through the collection to build up the DOM           
          for ( int index=0; index < custCount; index++) {
        
-             //Get the Customer object from the collection
-             Customer myCust = (Customer)custList.get(index);
+             //Get the Product object from the collection
+             Product myProd = (Product)prodList.get(index);
                             
-             Element Customer = doc.createElement( "Customer" );
-             root.appendChild( Customer );
+             Element Produc = doc.createElement( "Product" );
+             root.appendChild( Product );
                              
              //Add rest of data as child elements to customer
-             //Set First Name
-             Element first = doc.createElement( "First" );
-             first.appendChild( doc.createTextNode(myCust.getCustFirst() ) );
-             Customer.appendChild( first );
+             //Set Product Name
+             Element name= doc.createElement( "Name" );
+             name.appendChild( doc.createTextNode(myProd.getProductName() ) );
+             Product.appendChild( name );
                                                                 
-             //Set Last Name
-             Element last = doc.createElement( "Last" );
-             last.appendChild( doc.createTextNode(myCust.getCustLast() ) );
-             Customer.appendChild( last );
-                          
              //Set Description
              Element desc = doc.createElement( "Description" );
-             desc.appendChild( doc.createTextNode(myCust.getCustDescription() ) );
-             Customer.appendChild( desc );
+             desc.appendChild( doc.createTextNode(myProd.getProductDescription() ) );
+             Product.appendChild( desc );
+                          
+             //Set Quantity
+             Element quan = doc.createElement( "Quantity" );
+             quan.appendChild( doc.createTextNode(myProd.getProductQuantity() ) );
+             Product.appendChild( quan );
                          
-             //Set Address
-             Element address = doc.createElement( "Address" );
-             address.appendChild( doc.createTextNode(myCust.getCustAddress()) );
-             Customer.appendChild( address );
+             //Set Customize
+             Element custo = doc.createElement( "Customize" );
+             custo.appendChild( doc.createTextNode(myProd.getProductCustomize()) );
+             Product.appendChild( custo );
+             
+             //Set Category
+             Element cat = doc.createElement( "Category" );
+             cat.appendChild( doc.createTextNode(myProd.getProductCategory()) );
+             Product.appendChild( cat);
           }
                   
     return doc;
