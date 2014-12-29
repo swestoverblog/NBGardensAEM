@@ -4,3 +4,4 @@ bin
 target/
 ._*
 .DS_Store
+.metadata/.plugins/org.eclipse.m2e.logback.configuration/o.log
