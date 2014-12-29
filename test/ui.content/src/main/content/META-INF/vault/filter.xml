@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/content/nbtest"/>
+    <filter root="/content/dam/nbtest"/>
+    <filter root="/content/nb-gardens-web-project" />
+</workspaceFilter>

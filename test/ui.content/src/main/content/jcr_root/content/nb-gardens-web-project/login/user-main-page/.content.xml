@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:allowedTemplates="[/apps/nbgardenswebproject/templates/contentpage,/apps/nbgardenswebproject/templates/mysqlTemplate]"
+        cq:designPath="/etc/designs/nbdesign"
+        cq:lastModified="{Date}2014-12-29T16:25:11.928Z"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/nbgardenswebproject/templates/contentpage"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="User Main Page"
+        sling:resourceType="nbgardenswebproject/components/page/contentpage">
+        <par
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys"/>
+    </jcr:content>
+    <products/>
+    <custom-products/>
+    <product/>
+</jcr:root>

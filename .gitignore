@@ -1,6 +1,7 @@
 bin
-.metadata
+/.metadata
 *~
 target/
 ._*
 .DS_Store
+.metadata
