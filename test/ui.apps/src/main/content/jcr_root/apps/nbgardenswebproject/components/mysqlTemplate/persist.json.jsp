@@ -5,10 +5,11 @@ String type = request.getParameter("type");
 String desc = request.getParameter("desc");
 String qty = request.getParameter("qty");
 String price = request.getParameter("price");
-    
-com.adobe.aem.sql.ProductServiceImp ps = new com.adobe.aem.sql.ProductServiceImp();
+String id = request.getParameter("id");
 
-int myPK = ps.injestProdData(name, type, desc, qty, price) ; 
+com.adobe.aem.sql2.ProductServiceImp ps = new com.adobe.aem.sql2.ProductServiceImp();
+
+int myPK = ps.injestProdData(id, name, type, desc, qty, price) ; 
 
 //Send the data back to the client
 JSONWriter writer = new JSONWriter(response.getWriter());

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:allowedTemplates="[/apps/nbgardenswebproject/templates/contentpage,/apps/nbgardenswebproject/templates/mysqlTemplate,/apps/nbgardenswebproject/templates/mysqlTemplate2]"
+        cq:designPath="/etc/designs/nbgardensdesign"
+        cq:lastModified="{Date}2014-12-30T12:31:50.979Z"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/nbgardenswebproject/templates/contentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Login Page"
+        jcr:uuid="ff9c0288-803f-41a7-9d44-95467a7e193d"
+        sling:resourceType="nbgardenswebproject/components/page/contentpage">
+        <par
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys"/>
+        <image
+            jcr:lastModified="{Date}2014-12-30T12:31:50.979Z"
+            jcr:lastModifiedBy="admin"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+    <user-main-page/>
+    <admin-main-page/>
+    <product-database/>
+    <admin-database/>
+    <add-product/>
+    <rep:policy/>
+</jcr:root>

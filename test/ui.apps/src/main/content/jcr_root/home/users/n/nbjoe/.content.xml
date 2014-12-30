@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:lastModified="{Date}2014-12-29T17:30:23.186Z"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="cfe57d9c-f9af-34c5-9ef0-3a59bd713223"
+    rep:password="\{SHA-256}f2e2289b531dadcc-1000-749547b705a459ba27b037aa0c11b2a78ac1ae9d81e4d76ed19a16b0b9148d09"
+    rep:principalName="nbjoe">
+    <_x002e_tokens jcr:primaryType="nt:unstructured"/>
+    <preferences
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq:Preferences"/>
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        aboutMe="password is nb"
+        familyName="Joe"/>
+</jcr:root>

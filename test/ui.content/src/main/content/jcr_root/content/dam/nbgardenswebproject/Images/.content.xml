@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="sling:OrderedFolder">
+    <jcr:content jcr:primaryType="nt:unstructured"/>
+    <download_x0020__x0028_2_x0029_.jpg/>
+    <download.jpg/>
+    <download_x0020__x0028_1_x0029_.jpg/>
+    <output_LmYd2Q.gif/>
+</jcr:root>

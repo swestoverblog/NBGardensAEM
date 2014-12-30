@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:allowedTemplates="[/apps/nbgardenswebproject/templates/contentpage,/apps/nbgardenswebproject/templates/mysqlTemplate]"
+        cq:designPath="/etc/designs/nbdesign"
+        cq:lastModified="{Date}2014-12-29T18:59:21.962Z"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/nbgardenswebproject/templates/contentpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Add Product"
+        jcr:uuid="def0e7f6-a328-4ee1-bd6a-82de071e6b64"
+        sling:resourceType="nbgardenswebproject/components/page/contentpage">
+        <par
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <external
+                jcr:created="{Date}2014-12-29T18:59:01.592Z"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2014-12-29T18:59:21.942Z"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/external"
+                target="http://localhost:4502/cf#/content/nb-gardens-web-project/login-page/add-product.html"/>
+        </par>
+    </jcr:content>
+</jcr:root>

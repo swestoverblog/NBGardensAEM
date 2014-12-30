@@ -6,7 +6,7 @@
     allowedPaths="[/content(/.*)?]"
     ranking="{Long}4">
     <jcr:content
-        cq:allowedTemplates="[/apps/nbgardenswebproject/templates/contentpage,/apps/nbgardenswebproject/templates/mysqlTemplate]"
+        cq:allowedTemplates="[/apps/nbgardenswebproject/templates/contentpage,/apps/nbgardenswebproject/templates/mysqlTemplate,/apps/nbgardenswebproject/templates/mysqlTemplate2]"
         cq:designPath="/etc/designs/nbdesign"
         cq:template="/apps/nbgardens/templates/homepage"
         jcr:primaryType="cq:PageContent"

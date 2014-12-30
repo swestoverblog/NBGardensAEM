@@ -7,4 +7,6 @@
     <filter root="/etc/designs/nbtest"/>
     <filter root="/apps/nbgardenswebproject" />
     <filter root="/etc/designs/nbdesign"/>
+    <filter root="/home/groups/n"/>
+    <filter root="/home/users/n"/>
 </workspaceFilter>

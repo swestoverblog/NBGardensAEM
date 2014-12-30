@@ -1,11 +1,11 @@
 <%@include file="/libs/foundation/global.jsp"%>
+
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.4/css/jquery.dataTables.css">
     <script type="text/javascript" language="javascript" src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 	<script type="text/javascript" language="javascript" src="//cdn.datatables.net/1.10.4/js/jquery.dataTables.min.js"></script>
 <meta charset="UTF-8">
-<title>Adobe CQ Persist Page</title>
 <style>
 #signup .indent label.error {
   margin-left: 0;
@@ -63,8 +63,9 @@ $('#submit').click(function() {
     var myLast= $('#last').val() ;
     var myDescription= $('#description').val() ;
     var myAddress= $('#address').val() ;
+     var myId= $('#id').val() ;
 
-    var url = location.pathname.replace(".html", "/_jcr_content.persist.json") + "?first="+ myFirst +"&last="+myLast +"&desc="+myDescription +"&address="+myAddress;
+    var url = location.pathname.replace(".html", "/_jcr_content.persist.json") + "?first="+ myFirst +"&last="+myLast +"&desc="+myDescription +"&address="+myAddress +"&id="+myId;
 
     //$(".main").mask("Saving Data...");
 
@@ -131,19 +132,19 @@ $('#submitget').click(function() {
                     var name = $field.find('Name').text();
 
                     var type = $field.find('Type').text();
+                     var description = $field.find('Description').text(); // window.alert(description);
                      var qty = $field.find('Qty').text();   
-                    var Description = $field.find('Description').text();
 
                       var price = $field.find('Price').text();   
-
-
+                     //window.alert(price);
                     //Set the new data
                     oTable.fnAddData( [
                         id,
                        name,
                         type,
+
+                        description,
                          qty,
-                        Description,
                     price,]
                     );
 
@@ -163,78 +164,18 @@ $('#submitget').click(function() {
 </script>
 
 </head>
+
 <body>
 <div class="wrapper">
-    <div class="header">
-        <p class="logo">Adobe CQ MySQL Customer Persist/Query Application</p>
-    </div>
-    <div class="content">
-    <div class="main">
-    <h1>CQ MySQL Persist Example</h1>
 
-    <form name="signup" id="signup">
-     <table>
-    <tr>
-    <td>
-    <label for="first">First Name:</label>
-    </td>
-     <td>
-    <input type="first" id="first" name="first" value="" />
-    </td>
-    </tr>
-    <tr>
-    <td>
-    <label for="last">Last Name:</label>
-    </td>
-     <td>
-    <input type="last" id="last" name="last" value="" />
-    </td>
-    </tr>
-     <tr>
-    <td>
-    <label for="address">Address:</label>
-    </td>
-     <td>
-    <input type="address" id="address" name="address" value="" />
-    </td>
-    </tr>
-     <tr>
-    <td>
-   <label for="description">Description:</label>
-    </td>
-    <td>
-    <select id="description"  >
-            <option>Active Customer</option>
-            <option>Past Customer</option> 
-        </select>
-    </td>
-    </tr>
-     <tr>
-    <td>
-    <label for="custId">Customer Id:</label>
-    </td>
-     <td>
-    <input type="custId" id="custId" name="custId" value="" readonly="readonly"/>
-    </td>
-    </tr>
-
-</table>
-            <div>
-                <input type="button" value="Add Customer!"  name="submit" id="submit" value="Submit">
-            </div>
-        </form>
-        </div>
-    </div>
 
     <div id="container">
      <form name="custdata" id="custdata">
 
-    <h1>Query Customer Data from MySQL</h1>
    <div>
      <select id="custQuery"  >
-            <option>All Customers</option>
-            <option>Active Customer</option>
-            <option>Past Customer</option>   
+            <option>All Products</option>
+            <option>Customizable Products</option> 
         </select>
     </div>
     <div id="dynamic"></div>
@@ -247,4 +188,4 @@ $('#submitget').click(function() {
 
 </div>
 </body>
-</html>
+</html> 

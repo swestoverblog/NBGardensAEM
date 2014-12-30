@@ -2,7 +2,7 @@
 <div class="header">
     <div class="container_16">
         <div class="grid_8">
-            <cq:include path="logo" resourceType="training/components/logo" />
+            <cq:include path="logo" resourceType="nbgardenswebproject/components/content/logo" />
         </div>
         <div class="grid_8">
             <div class="search_area">  
