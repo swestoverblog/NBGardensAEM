@@ -47,7 +47,7 @@ $(document).ready(function() {
       } );
 
 
-    $('body').hide().fadeIn(5000);
+    //$('body').hide().fadeIn(5000);
 
 $('#submit').click(function() {
     var failure = function(err) {

@@ -20,6 +20,7 @@
 #signup  input.error, #signup select.error  {
   background: #FFA9B8;
   border: 1px solid red;
+
 }
 </style>
 <script>
@@ -48,7 +49,7 @@ $(document).ready(function() {
       } );
 
 
-    $('body').hide().fadeIn(5000);
+    // $('body').hide().fadeIn(5000);
 
 $('#submit').click(function() {
     var failure = function(err) {
@@ -93,7 +94,7 @@ $('#submit').click(function() {
 
 //Get customer data -- called when the submitget button is clicked
 //this method populates the data grid with data retrieved from the //Adobe CQ JCR
-$('#submitget').click(function() {
+
     var failure = function(err) {
           alert("Unable to retrive data "+err);
       };
@@ -158,14 +159,14 @@ $('#submitget').click(function() {
             failure(err);
         }
     });
-  });
+
 
 }); // end ready
 </script>
 
 </head>
 
-<body>
+<body bgcolor="#e8e8e8">
 <div class="wrapper">
 
 
