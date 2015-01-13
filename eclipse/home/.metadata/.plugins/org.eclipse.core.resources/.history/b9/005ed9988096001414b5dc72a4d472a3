@@ -1,0 +1,11 @@
+package com.adobe.aem.sql3;
+
+public class UserServiceImp implements UserService{
+
+	@Override
+	public String getUserData(String filter) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

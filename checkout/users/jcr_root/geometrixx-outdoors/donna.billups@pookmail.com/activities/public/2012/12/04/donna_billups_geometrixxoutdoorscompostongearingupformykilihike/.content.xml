@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:created="{Date}2012-12-04T14:15:38.117+01:00"
+    jcr:createdBy="donna.billups@pookmail.com"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="donna.billups@pookmail.com POST on Gearing up for my Kili hike. "
+    sling:resourceType="granite/activitystreams/components/activity"
+    verb="POST">
+    <object
+        jcr:description="Josh, I’m glad to hear you and your son are taking on Mt. Kilimanjaro. I have actually summited twice and I hope to make it back again in the next few years. The biggest piece of advice I can offer to you is to NOT cut back on essentials because you think you are taking too much. Even if you have to pay extra baggage fees, it is well worth the $20. It is far better to be over-prepared. Talk to your guide company the day before you set out. If they tell you that you brought too much, just about every hotel out there will store your stuff for a minimal fee while you’re on the mountain. Did your guide company provide you with a packing list?"
+        jcr:primaryType="nt:unstructured"
+        id="/content/usergenerated/content/geometrixx-outdoors/en/community/hiking/journal/2012/12/gearing_up_for_myki/jcr:content/comments/1Bucket/zyuv-josh_i_m_gladtohe"
+        objectType="comment"
+        subType="social/commons/components/comments/comment"/>
+    <target
+        jcr:primaryType="nt:unstructured"
+        displayName="Gearing up for my Kili hike. "
+        id="/content/geometrixx-outdoors/en/community/hiking/journal/2012/12/gearing_up_for_myki"
+        objectType="geometrixx-outdoors/components/journal/page"/>
+</jcr:root>

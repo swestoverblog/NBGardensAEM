@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1421005828519_1" label="users" name="users">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/users-bundle" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/users" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/users-content" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1421076043804_2" label="slingjcr" name="slingjcr">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/slingjcr" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/slingjcr-bundle" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/slingjcr-content" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1421003316722_0" label="Window Working Set" name="Aggregate for window 1421003316722"/>
+</workingSetManager>

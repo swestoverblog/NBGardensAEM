@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="0be50029-0b70-3f7a-9449-3834b63b0bb4"
+    rep:password="\{SHA-256}42ef6411b702b832-1000-47d960dfd654dff5fc583a3cda2f7d80b6c8ac1c95ab3409504d5b2a4b933338"
+    rep:principalName="jason.werner@dodgit.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="jason.werner@dodgit.com"
+        familyName="Werner"
+        gender="male"
+        givenName="Jason">
+        <forum/>
+        <photos/>
+        <scoring/>
+        <segments/>
+    </profile>
+</jcr:root>

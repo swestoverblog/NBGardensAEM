@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2015-01-09T16:22:44.669Z"
+        cq:lastModifiedBy="admin"
+        cq:lastReplicated="{Date}2015-01-11T16:11:43.568-08:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/nbgardenswebproject/templates/mysqlTemplateLow"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Low Stock"
+        jcr:uuid="74d63d30-75c4-4b63-a111-df227663f4ca"
+        sling:resourceType="nbgardenswebproject/components/mysqlTemplateLow"/>
+    <rep:policy/>
+</jcr:root>

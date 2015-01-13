@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-09-30T10:12:04.183+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="cc76c3c0-97d8-3ca7-873d-d01b9f04a393"
+    rep:password="\{SHA-256}737cec12f5dd18e7-1000-fdf92fad3d30585f406e8fc90a7c4e99fa6b506bb3f22a2de7539185115b6ba5"
+    rep:principalName="carlene.j.avery@mailinator.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        birthday="{Date}1953-06-16T00:00:00.000+01:00"
+        city="Londonderry"
+        email="Carlene.J.Avery@mailinator.com"
+        familyName="Avery"
+        followers="[charles.s.johnson@trashymail.com,laura.j.richardson@pookmail.com,scott.b.reynolds@dodgit.com,olive.d.pixley@spambob.com]"
+        friends="[ivan.l.parrino@mailinator.com,larry.a.spiller@pookmail.com]"
+        gender="female"
+        givenName="Carlene"
+        jobTitle="Custom inspector"
+        middleName="J"
+        phoneNumber="603-995-0958"
+        postalCode="3053"
+        region="NH"
+        streetAddress="3555 Elsie Drive">
+        <photos/>
+    </profile>
+</jcr:root>

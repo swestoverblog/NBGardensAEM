@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="f0960f73-11c7-3b66-ac82-cfa984efde9c"
+    rep:password="\{SHA-256}e80b1288dc5e40e8-1000-3a51c81ff59162d3229975f765dac9946b89c8b492fad5203ceaf3289ccac86c"
+    rep:principalName="james.devore@spambob.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="james.devore@spambob.com"
+        familyName="Devore"
+        gender="male"
+        givenName="James">
+        <forum/>
+        <photos/>
+        <scoring/>
+        <segments/>
+    </profile>
+</jcr:root>

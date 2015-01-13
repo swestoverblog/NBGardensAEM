@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:created="{Date}2012-12-04T15:25:23.027+01:00"
+    jcr:createdBy="james.devore@spambob.com"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="james.devore@spambob.com POST on Surfs up…I love November!"
+    sling:resourceType="granite/activitystreams/components/activity"
+    verb="POST">
+    <object
+        jcr:description="There are no stupid questions in the community! Here is a map of the North Shore. From end-to-end, the North Shore is considered one of the best places on the planet to surf. It’s a really beautiful area to visit if you’ve never been."
+        jcr:primaryType="nt:unstructured"
+        id="/content/usergenerated/content/geometrixx-outdoors/en/community/surfing/journal/2012/12/surfs_up_i_love_nove/jcr:content/comments/1Bucket/siq7-there_are_nostupid"
+        objectType="comment"
+        subType="social/commons/components/comments/comment"/>
+    <target
+        jcr:primaryType="nt:unstructured"
+        displayName="Surfs up…I love November!"
+        id="/content/geometrixx-outdoors/en/community/surfing/journal/2012/12/surfs_up_i_love_nove"
+        objectType="geometrixx-outdoors/components/journal/page"/>
+</jcr:root>

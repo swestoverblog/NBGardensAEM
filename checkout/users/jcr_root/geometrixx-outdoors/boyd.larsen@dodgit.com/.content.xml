@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="9d42ce69-609b-361e-85a1-5bbbb559c309"
+    rep:password="\{SHA-256}0ac5b37112333fef-1000-9a00e5709143e1d94c3097805b8239a0c02ce3a0780721dc478361eee048c494"
+    rep:principalName="boyd.larsen@dodgit.com">
+    <preferences
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq:Preferences"/>
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="boyd.larsen@dodgit.com"
+        familyName="Larsen"
+        gender="male"
+        givenName="Boyd">
+        <forum/>
+        <photos/>
+        <scoring/>
+        <segments/>
+    </profile>
+</jcr:root>

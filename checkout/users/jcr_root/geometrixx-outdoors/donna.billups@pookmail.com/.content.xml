@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="a4548ed6-ab3c-31b8-92f6-9a969e52415e"
+    rep:password="\{SHA-256}830fb53cc084ff0d-1000-3c95d1c723f70c4b1ab851cd049b014ca2bcde9cee4102eaf6878afa5ab66759"
+    rep:principalName="donna.billups@pookmail.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="donna.billups@pookmail.com"
+        familyName="Billups"
+        gender="female"
+        givenName="Donna">
+        <forum/>
+        <photos/>
+        <scoring/>
+        <segments/>
+    </profile>
+</jcr:root>

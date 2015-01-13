@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:created="{Date}2012-12-04T14:35:56.093+01:00"
+    jcr:createdBy="ashley.thompson@spambob.com"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="ashley.thompson@spambob.com POST on Enjoying the redwoods"
+    sling:resourceType="granite/activitystreams/components/activity"
+    verb="POST">
+    <object
+        jcr:description="Andrew I’m jealous! I have always wanted to do that since they discovered the tree in 2006. You are my motivation…I will try to do that next summer."
+        jcr:primaryType="nt:unstructured"
+        id="/content/usergenerated/content/geometrixx-outdoors/en/community/hiking/journal/2012/12/enjoying_the_redwood/jcr:content/comments/1Bucket/gdxi-andrew_i_m_jealous"
+        objectType="comment"
+        subType="social/commons/components/comments/comment"/>
+    <target
+        jcr:primaryType="nt:unstructured"
+        displayName="Enjoying the redwoods"
+        id="/content/geometrixx-outdoors/en/community/hiking/journal/2012/12/enjoying_the_redwood"
+        objectType="geometrixx-outdoors/components/journal/page"/>
+</jcr:root>

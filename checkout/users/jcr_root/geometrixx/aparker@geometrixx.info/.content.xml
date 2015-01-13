@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="a56a94bf-6b1c-32f5-bd3f-2524c42def08"
+    rep:password="\{SHA-256}60bb8a4686be34f5-1000-d9dcd303b4aeb441fade627973e8a9025829fbb65067bfdf97ca501b76e57afb"
+    rep:principalName="aparker@geometrixx.info"
+    sling:resourceType="rep:User">
+    <profile
+        jcr:mixinTypes="[rep:AccessControllable]"
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        aboutMe="aparker is an example surfer account having an email address as userid"
+        birthday="{Date}1992-02-27T00:00:00.000+01:00"
+        city="San Jose"
+        email="aparker@geometrixx.info"
+        familyName="Parker"
+        followers="[charles.s.johnson@trashymail.com,laura.j.richardson@pookmail.com,scott.b.reynolds@dodgit.com,zachary.w.mitchell@spambob.com,olive.d.pixley@spambob.com]"
+        friends="[jdoe@geometrixx.info,carlene.j.avery@mailinator.com,charles.s.johnson@trashymail.com,iris.r.mccoy@mailinator.com,ivan.l.parrino@mailinator.com,larry.a.spiller@pookmail.com]"
+        gender="female"
+        givenName="Alison"
+        memberSince="{Date}2010-09-08T15:13:23.000+02:00"
+        postalCode="95125"
+        region="CA"
+        streetAddress="4501 El Rio Drive">
+        <forum/>
+        <photos/>
+        <scoring/>
+        <segments/>
+    </profile>
+</jcr:root>

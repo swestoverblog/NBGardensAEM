@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-10-07T13:26:25.569+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:Group"
+    jcr:uuid="9604ba94-27a2-30db-9422-79d9ed78400b"
+    rep:members="{WeakReference}[19086cbb-03aa-3157-9ee6-1dbd6e45a4c0,53edbed9-2262-3b89-ad57-3d7fa355bafc,cc76c3c0-97d8-3ca7-873d-d01b9f04a393,b1e1d3c3-983c-33d6-811c-18d2a8824e03,3025b28a-ba48-3072-b992-1410e2fecf89,1c901b74-256e-3c54-8b45-f3e89f6e85a7,7f04b3e2-7767-3cbb-8857-98b24295ad2a,637d4ebc-4c0d-30b2-b6a2-b2bbe675e14e,36b86934-f6d1-356b-a8d8-5d1fa732e8a7,0ee45132-41c7-3834-a00b-3321f071a30a,19a624f0-8807-3ecb-a5e9-9ff38f41d1bd,9b2b5e19-15d7-3027-ae92-c2369b543e74,07d2f387-3e27-3a14-a62b-6c91cb54eee6,2b61e6e7-bd54-3933-bedc-bc3dad4e52ee,a483cace-ee3e-3b05-b207-9df7dee206f6,9f04a5ce-df48-384c-abd9-7d996b191513,04e74482-a3e5-31bc-8332-9c97859f4e3a,787363f2-ce64-34a0-99be-8b0b6cc566bf]"
+    rep:principalName="dsc">
+    <profile
+        cq:authorizableCategory="mcm"
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        aboutMe="DSC Show Berlin"
+        givenName="DSC"
+        keep="true"/>
+</jcr:root>

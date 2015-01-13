@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ConnectionHelper.java&apos; to &apos;CQJDBCProjectLogin/src/com.adobe.aem.sql3&apos;&#x0D;&#x0A;- Original project: &apos;CQJDBCProject3&apos;&#x0D;&#x0A;- Destination element: &apos;CQJDBCProjectLogin/src/com.adobe.aem.sql3&apos;&#x0D;&#x0A;- Original element: &apos;com.adobe.aem.sql2.ConnectionHelper.java&apos;" description="Copy compilation unit" destination="=CQJDBCProjectLogin/src&lt;com.adobe.aem.sql3" element1="/src&lt;com.adobe.aem.sql2{ConnectionHelper.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1420643696815" units="1" version="1.0"/>
+</session>

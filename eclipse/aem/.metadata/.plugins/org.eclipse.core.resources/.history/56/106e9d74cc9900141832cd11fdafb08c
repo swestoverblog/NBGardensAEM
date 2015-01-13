@@ -1,0 +1,5 @@
+package com.aem.users;
+
+public interface SearchUsers {
+
+}

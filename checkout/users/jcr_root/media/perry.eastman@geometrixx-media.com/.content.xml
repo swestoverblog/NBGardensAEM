@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="4db7976e-ed24-3461-91e5-4fef05ac144a"
+    rep:password="\{SHA-256}ee7d65eb25b7a783-1000-54bea07555ebf3b5b9dafe8736f235574c27435bf17b86ffb0f0c967bb8888f9"
+    rep:principalName="perry.eastman@geometrixx-media.com">
+    <_x002e_tokens jcr:primaryType="nt:unstructured"/>
+    <preferences
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq:Preferences"/>
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="perry.eastman@geometrixx-media.com"
+        familyName="Eastman"
+        givenName="Perry"/>
+</jcr:root>

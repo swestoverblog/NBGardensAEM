@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="e66fde84-6efd-3505-9c42-251c6ddc500d"
+    rep:password="\{SHA-256}d241bc18e74a2500-1000-9cc7644c843f92d3a20e3eb601435d0971973ec0f48098e43da41c310e868791"
+    rep:principalName="jdoe@geometrixx.info"
+    sling:resourceType="rep:User">
+    <profile
+        jcr:mixinTypes="[rep:AccessControllable]"
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        aboutMe="jdoe is an example surfer account having an email address as userid"
+        birthday="{Date}1970-12-01T00:00:00.000+01:00"
+        email="jdoe@geometrixx.info"
+        familyName="Doe"
+        followers="[laura.j.richardson@pookmail.com,carlene.j.avery@mailinator.com,charles.s.johnson@trashymail.com,scott.b.reynolds@dodgit.com,zachary.w.mitchell@spambob.com,olive.d.pixley@spambob.com,larry.a.spiller@pookmail.com,ivan.l.parrino@mailinator.com]"
+        friends="[iris.r.mccoy@mailinator.com]"
+        gender="male"
+        givenName="John"
+        memberSince="{Date}2011-08-01T08:13:23.000+02:00">
+        <photos/>
+    </profile>
+</jcr:root>

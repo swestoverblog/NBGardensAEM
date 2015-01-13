@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:created="{Date}2012-12-04T14:48:07.067+01:00"
+    jcr:createdBy="ryan.palmer@spambob.com"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="ryan.palmer@spambob.com POST on Best GPS for hiking?"
+    sling:resourceType="granite/activitystreams/components/activity"
+    verb="POST">
+    <object
+        jcr:description="I am currently using the Aqua Force GPS fitness monitor. After about six months I can honestly say that I am impressed. The reading is accurate and since it is a fitness watch it can also track runs and has all the normal functions you would expect of a watch."
+        jcr:primaryType="nt:unstructured"
+        id="/content/usergenerated/content/geometrixx-outdoors/en/community/hiking/journal/2012/12/best_gps_for_hiking/jcr:content/comments/1Bucket/cxgm-i_am_currentlyusing"
+        objectType="comment"
+        subType="social/commons/components/comments/comment"/>
+    <target
+        jcr:primaryType="nt:unstructured"
+        displayName="Best GPS for hiking?"
+        id="/content/geometrixx-outdoors/en/community/hiking/journal/2012/12/best_gps_for_hiking"
+        objectType="geometrixx-outdoors/components/journal/page"/>
+</jcr:root>

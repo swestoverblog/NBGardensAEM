@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="ee2809ff-dce5-3c09-a843-8d943bdf42c4"
+    rep:password="\{SHA-256}67ebcea2dd118800-1000-6cace9b55019582157d88fa1ef3a22407ba44ab7ab57c0715842ffb19661dfe6"
+    rep:principalName="aaron.mcdonald@mailinator.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="aaron.mcdonald@mailinator.com"
+        familyName="McDonald"
+        gender="male"
+        givenName="Aaron">
+        <forum/>
+        <photos/>
+        <scoring/>
+        <segments/>
+    </profile>
+</jcr:root>

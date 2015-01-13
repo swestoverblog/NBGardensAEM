@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:created="{Date}2012-12-04T15:05:20.814+01:00"
+    jcr:createdBy="aaron.mcdonald@mailinator.com"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="aaron.mcdonald@mailinator.com POST on Avalanche season is upon us"
+    sling:resourceType="granite/activitystreams/components/activity"
+    verb="POST">
+    <object
+        jcr:description="Good looking out. We all need to be aware when it comes to avalanches."
+        jcr:primaryType="nt:unstructured"
+        id="/content/usergenerated/content/geometrixx-outdoors/en/community/winter-sports/journal/2012/12/avalanche_seasonis/jcr:content/comments/1Bucket/h6vn-good_lookingoutwe"
+        objectType="comment"
+        subType="social/commons/components/comments/comment"/>
+    <target
+        jcr:primaryType="nt:unstructured"
+        displayName="Avalanche season is upon us"
+        id="/content/geometrixx-outdoors/en/community/winter-sports/journal/2012/12/avalanche_seasonis"
+        objectType="geometrixx-outdoors/components/journal/page"/>
+</jcr:root>

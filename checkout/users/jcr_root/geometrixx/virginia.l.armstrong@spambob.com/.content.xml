@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-09-30T10:11:18.138+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="787363f2-ce64-34a0-99be-8b0b6cc566bf"
+    rep:password="\{SHA-256}96c054b9de61462e-1000-17c8973b04f3f325c741e6bedbd82d95c18904d12faa66fe3ed1338658a5f302"
+    rep:principalName="virginia.l.armstrong@spambob.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        birthday="{Date}1972-12-05T00:00:00.000+01:00"
+        city="Los Angeles"
+        email="Virginia.L.Armstrong@spambob.com"
+        familyName="Armstrong"
+        gender="female"
+        givenName="Virginia"
+        jobTitle="Pest control worker"
+        middleName="L"
+        phoneNumber="909-661-9968"
+        postalCode="90017"
+        region="CA"
+        streetAddress="2833 Paradise Lane">
+        <photos/>
+    </profile>
+</jcr:root>

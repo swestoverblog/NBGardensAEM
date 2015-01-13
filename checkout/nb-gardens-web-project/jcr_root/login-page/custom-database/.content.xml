@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2015-01-06T12:51:33.957Z"
+        cq:lastModifiedBy="admin"
+        cq:lastReplicated="{Date}2015-01-11T16:11:42.661-08:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/nbgardenswebproject/templates/mysqlTemplateCust"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Custom Database"
+        jcr:uuid="4c94d1c1-0fd3-4ae6-8bd2-6f66c91c3f97"
+        sling:resourceType="nbgardenswebproject/components/mysqlTemplateCust"/>
+    <rep:policy/>
+</jcr:root>

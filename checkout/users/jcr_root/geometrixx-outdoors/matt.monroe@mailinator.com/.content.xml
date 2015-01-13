@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="50296b00-8d87-325c-a42c-d2424777abfa"
+    rep:password="\{SHA-256}151e7196816fc90d-1000-de9d268ed552d52179c19b97b573b48a6596e34d4f031b5f670ade1bdb52373b"
+    rep:principalName="matt.monroe@mailinator.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="matt.monroe@mailinator.com"
+        familyName="Monroe"
+        gender="male"
+        givenName="Matt">
+        <forum/>
+        <photos/>
+        <scoring/>
+        <segments/>
+    </profile>
+</jcr:root>

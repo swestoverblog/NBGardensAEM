@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="dcb629ad-542f-316d-9c2e-bbe47b3dca81"
+    rep:password="\{SHA-256}948bfeab3db3269f-1000-b7ae48f8fb6dcec2b663f06861d92d6dd6704bab150428ae239bea279d7e97db"
+    rep:principalName="emily.andrews@mailinator.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="emily.andrews@mailinator.com"
+        familyName="Andrews"
+        gender="female"
+        givenName="Emily">
+        <forum/>
+        <photos/>
+        <scoring/>
+        <segments/>
+    </profile>
+</jcr:root>

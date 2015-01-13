@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:created="{Date}2012-12-04T14:38:49.180+01:00"
+    jcr:createdBy="andrew.schaeffer@trashymail.com"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="andrew.schaeffer@trashymail.com POST on Enjoying the redwoods"
+    sling:resourceType="granite/activitystreams/components/activity"
+    verb="POST">
+    <object
+        jcr:description="It’s not that bad, if you are used to hiking with an overnight pack on your back. I actually like the feel of carrying weight on my back for some reason (even with biking, too….I know I’m strange) so I didn’t have any problems. It never got too steep to ruin the experience, that’s for sure. Plus, the scenery along the way is incredible so you’ve got plenty of distractions."
+        jcr:primaryType="nt:unstructured"
+        id="/content/usergenerated/content/geometrixx-outdoors/en/community/hiking/journal/2012/12/enjoying_the_redwood/jcr:content/comments/1Bucket/dwbe-it_s_not_thatbadi"
+        objectType="comment"
+        subType="social/commons/components/comments/comment"/>
+    <target
+        jcr:primaryType="nt:unstructured"
+        displayName="Enjoying the redwoods"
+        id="/content/geometrixx-outdoors/en/community/hiking/journal/2012/12/enjoying_the_redwood"
+        objectType="geometrixx-outdoors/components/journal/page"/>
+</jcr:root>

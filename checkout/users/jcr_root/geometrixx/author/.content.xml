@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="02bd92fa-a38a-3a6c-80ea-75e59937a1ef"
+    rep:password="\{SHA-256}7da222b223c42662-1000-7a0a739576a4c4f6fcf9268a7c2e279d9d07e6d9674e1a9b1056ae3271caba08"
+    rep:principalName="author"
+    sling:resourceType="rep:User">
+    <profile
+        jcr:mixinTypes="[rep:AccessControllable]"
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        aboutMe="Example author that is allowed to edit all example websites and enabled to administrate workflows, tags and users."/>
+</jcr:root>

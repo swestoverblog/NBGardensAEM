@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="7fd9d0ff-ef19-3330-b682-e5e6105cf6de"
+    rep:password="\{SHA-256}3236d558e20c9399-1000-c2652c29c4d09753561df4f28dc1dcfb7180a155b3359188d4da5b06fe3fb6f5"
+    rep:principalName="rebekah.larsen@trashymail.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="rebekah.larsen@trashymail.com"
+        familyName="Larsen"
+        gender="female"
+        givenName="Rebekah">
+        <forum/>
+        <photos/>
+        <scoring/>
+        <segments/>
+    </profile>
+</jcr:root>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:lastModified="{Date}2013-01-07T15:03:13.017-05:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="dbde34ff-91bc-394c-90f5-a5b0caf3a502"
+    rep:password="\{SHA-256}e161991b6fd693fb-1000-6e99f62f446724c95e82b5abf519c9567ab80f7ed515462644fd5f141504a48e"
+    rep:principalName="joel.czuba@geometrixx-media.com">
+    <_x002e_tokens jcr:primaryType="nt:unstructured"/>
+    <preferences
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq:Preferences"/>
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="joel.czuba@geometrixx-media.com"
+        familyName="Czuba"
+        givenName="Joel"/>
+</jcr:root>

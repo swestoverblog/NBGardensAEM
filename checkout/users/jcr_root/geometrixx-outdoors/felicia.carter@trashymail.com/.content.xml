@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="96019592-ee9b-3901-8384-74fe9b519bfe"
+    rep:password="\{SHA-256}c9c0307875e549c1-1000-fef2973a18642e5447e65b23fb2d919cf4c89f01549b3a7f25465f2808267c23"
+    rep:principalName="felicia.carter@trashymail.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="felicia.carter@trashymail.com"
+        familyName="Carter"
+        gender="female"
+        givenName="Felicia">
+        <forum/>
+        <photos/>
+        <scoring/>
+        <segments/>
+    </profile>
+</jcr:root>

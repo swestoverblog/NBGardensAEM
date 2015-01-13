@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: CQSQLBundleNew
+Bundle-SymbolicName: CQSQLBundleNew
+Bundle-Version: 1.0.0
+Export-Package: com.adobe.aem.sql2,
+ com.mysql.jdbc,
+ com.mysql.jdbc.authentication,
+ com.mysql.jdbc.exceptions,
+ com.mysql.jdbc.exceptions.jdbc4,
+ com.mysql.jdbc.integration.c3p0,
+ com.mysql.jdbc.integration.jboss,
+ com.mysql.jdbc.interceptors,
+ com.mysql.jdbc.jdbc2.optional,
+ com.mysql.jdbc.jmx,
+ com.mysql.jdbc.log,
+ com.mysql.jdbc.profiler,
+ com.mysql.jdbc.util,
+ org.gjt.mm.mysql
+Import-Package: javax.transaction.xa,
+ javax.naming,
+ javax.xml.transform; version="1.3.0",
+ org.xml.sax.helpers; version="2.0.2",
+ javax.xml.parsers; version="1.3.0",
+ javax.net.ssl,
+ org.w3c.dom; version="3.0.0",
+ javax.net,
+ javax.xml.transform.stax,
+ org.slf4j; version="1.6.1",
+ javax.management,
+ javax.xml.stream; version="1.0.1",
+ org.xml.sax; version="2.0.2",
+ javax.xml.transform.sax; version="1.3.0",
+ javax.xml.transform.stream; version="1.3.0",
+ javax.sql,
+ javax.xml.transform.dom; version="1.3.0",
+ javax.naming.spi
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7

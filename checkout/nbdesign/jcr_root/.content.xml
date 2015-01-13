@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2014-12-30T11:40:00.484Z"
+        cq:lastModifiedBy="admin"
+        cq:lastReplicated="{Date}2015-01-11T16:09:57.016-08:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Activate"
+        cq:template="/libs/wcm/core/templates/designpage"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="nbdesign"
+        jcr:uuid="fdeb2418-9420-46b4-9f92-e7eb07750c64"
+        sling:resourceType="wcm/core/components/designer">
+        <contentpage jcr:primaryType="nt:unstructured">
+            <par
+                jcr:lastModified="{Date}2014-12-29T17:18:55.707Z"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/parsys"
+                components="[/libs/foundation/components/external,/libs/foundation/components/login,/libs/foundation/components/text]">
+                <section jcr:primaryType="nt:unstructured"/>
+            </par>
+            <logo
+                jcr:lastModified="{Date}2014-12-30T11:40:00.484Z"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="nbgardenswebproject/components/content/logo"
+                fileReference="/content/dam/nbgardenswebproject/Images/output_LmYd2Q.gif"
+                imageRotate="0"/>
+        </contentpage>
+    </jcr:content>
+    <static.css/>
+    <images/>
+</jcr:root>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-09-30T10:11:37.788+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="9b2b5e19-15d7-3027-ae92-c2369b543e74"
+    rep:password="\{SHA-256}13f94f9c3d28ebe7-1000-ff5c4e65727a1337f3307cd7320cc7a81d0e8a254c9268d4fc58bb541cfa1b79"
+    rep:principalName="william.a.plunkett@mailinator.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        birthday="{Date}1964-09-17T00:00:00.000+01:00"
+        city="Rockford"
+        email="William.A.Plunkett@mailinator.com"
+        familyName="Plunkett"
+        gender="male"
+        givenName="William"
+        jobTitle="Stenocaptioner"
+        middleName="A"
+        phoneNumber="815-608-0402"
+        postalCode="61101"
+        region="IL"
+        streetAddress="4364 Matthews Street">
+        <photos/>
+    </profile>
+</jcr:root>

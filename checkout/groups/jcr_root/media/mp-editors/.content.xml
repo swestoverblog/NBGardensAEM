@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:lastModified="{Date}2013-01-08T09:04:26.605-05:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:Group"
+    jcr:uuid="f183b57c-e542-38ea-b75c-a013ab77c613"
+    rep:members="{WeakReference}[a9aa6bd5-7a56-327a-917f-ace091227608,00297ff6-4c7e-3bc5-8a33-dc9be97654dd,4430b518-d232-3e97-95e9-ab292ee5f6a3,2c404f5d-8cf3-3edf-b726-5bf55780a763,4db7976e-ed24-3461-91e5-4fef05ac144a]"
+    rep:principalName="mp-editors">
+    <preferences
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq:Preferences"/>
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        aboutMe="Media Publishing Editors"
+        givenName="mp-editors"/>
+</jcr:root>

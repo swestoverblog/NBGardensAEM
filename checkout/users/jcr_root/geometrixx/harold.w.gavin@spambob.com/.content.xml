@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-09-30T10:12:53.253+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="3025b28a-ba48-3072-b992-1410e2fecf89"
+    rep:password="\{SHA-256}22b99784feb79425-1000-5985ee10aae647eb8b1c120e8febcdf636a01160e358c29536258723797238f9"
+    rep:principalName="harold.w.gavin@spambob.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        birthday="{Date}1974-12-26T00:00:00.000+01:00"
+        city="Carrollton"
+        email="Harold.W.Gavin@spambob.com"
+        familyName="Gavin"
+        gender="male"
+        givenName="Harold"
+        jobTitle="Graphic artist"
+        middleName="W"
+        phoneNumber="662-237-1942"
+        postalCode="38917"
+        region="MS"
+        streetAddress="3652 Oxford Court">
+        <photos/>
+    </profile>
+</jcr:root>

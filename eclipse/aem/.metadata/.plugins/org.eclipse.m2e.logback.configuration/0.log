@@ -1,0 +1,765 @@
+2015-01-11 11:19:24,054 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/com/day/cq/cq-search/5.5.4/cq-search-5.5.4.pom
+2015-01-11 11:19:24,414 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/com/day/cq/cq-search/5.5.4/cq-search-5.5.4.pom
+2015-01-11 11:19:24,994 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/com/day/cq/parent/24/parent-24.pom
+2015-01-11 11:19:25,275 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/com/day/cq/parent/24/parent-24.pom
+2015-01-11 11:19:25,615 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/com/day/day/11/day-11.pom
+2015-01-11 11:19:25,875 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/com/day/day/11/day-11.pom
+2015-01-11 11:19:26,295 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/com/day/cq/cq-statistics/5.4.0/cq-statistics-5.4.0.pom
+2015-01-11 11:19:26,565 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/com/day/cq/cq-statistics/5.4.0/cq-statistics-5.4.0.pom
+2015-01-11 11:19:27,002 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/com/day/cq/parent/15/parent-15.pom
+2015-01-11 11:19:27,245 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/com/day/cq/parent/15/parent-15.pom
+2015-01-11 11:19:27,700 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/com/day/day/8/day-8.pom
+2015-01-11 11:19:27,919 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/com/day/day/8/day-8.pom
+2015-01-11 11:19:28,378 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/com/day/cq/cq-commons/5.4.0/cq-commons-5.4.0.pom
+2015-01-11 11:19:28,678 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/com/day/cq/cq-commons/5.4.0/cq-commons-5.4.0.pom
+2015-01-11 11:19:29,128 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/commons/commons-email/1.2/commons-email-1.2.pom
+2015-01-11 11:19:29,388 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/commons/commons-email/1.2/commons-email-1.2.pom
+2015-01-11 11:19:29,924 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/javax/mail/mail/1.4.1/mail-1.4.1.pom
+2015-01-11 11:19:30,153 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/javax/mail/mail/1.4.1/mail-1.4.1.pom
+2015-01-11 11:19:30,557 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/javax/activation/activation/1.1/activation-1.1.pom
+2015-01-11 11:19:30,828 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/javax/activation/activation/1.1/activation-1.1.pom
+2015-01-11 11:19:31,243 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/joda-time/joda-time/1.5.2/joda-time-1.5.2.pom
+2015-01-11 11:19:31,453 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/joda-time/joda-time/1.5.2/joda-time-1.5.2.pom
+2015-01-11 11:19:31,978 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/felix/org.osgi.core/1.4.0/org.osgi.core-1.4.0.pom
+2015-01-11 11:19:32,268 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/felix/org.osgi.core/1.4.0/org.osgi.core-1.4.0.pom
+2015-01-11 11:19:32,707 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/jackrabbit-core/2.4.3/jackrabbit-core-2.4.3.pom
+2015-01-11 11:19:32,912 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-core/2.4.3/jackrabbit-core-2.4.3.pom
+2015-01-11 11:19:33,182 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-core/2.4.3/jackrabbit-core-2.4.3.pom
+2015-01-11 11:19:33,582 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/jackrabbit-parent/2.4.3/jackrabbit-parent-2.4.3.pom
+2015-01-11 11:19:33,712 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-parent/2.4.3/jackrabbit-parent-2.4.3.pom
+2015-01-11 11:19:34,019 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-parent/2.4.3/jackrabbit-parent-2.4.3.pom
+2015-01-11 11:19:34,540 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/concurrent/concurrent/1.3.4/concurrent-1.3.4.pom
+2015-01-11 11:19:34,820 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/concurrent/concurrent/1.3.4/concurrent-1.3.4.pom
+2015-01-11 11:19:35,562 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/commons-dbcp/commons-dbcp/1.3/commons-dbcp-1.3.pom
+2015-01-11 11:19:35,949 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/commons-dbcp/commons-dbcp/1.3/commons-dbcp-1.3.pom
+2015-01-11 11:19:36,360 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/commons/commons-parent/12/commons-parent-12.pom
+2015-01-11 11:19:36,682 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/commons/commons-parent/12/commons-parent-12.pom
+2015-01-11 11:19:37,132 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4.pom
+2015-01-11 11:19:37,393 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4.pom
+2015-01-11 11:19:37,846 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/jackrabbit-api/2.4.3/jackrabbit-api-2.4.3.pom
+2015-01-11 11:19:37,956 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-api/2.4.3/jackrabbit-api-2.4.3.pom
+2015-01-11 11:19:38,106 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-api/2.4.3/jackrabbit-api-2.4.3.pom
+2015-01-11 11:19:38,515 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/jackrabbit-jcr-commons/2.4.3/jackrabbit-jcr-commons-2.4.3.pom
+2015-01-11 11:19:38,615 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-jcr-commons/2.4.3/jackrabbit-jcr-commons-2.4.3.pom
+2015-01-11 11:19:38,822 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-jcr-commons/2.4.3/jackrabbit-jcr-commons-2.4.3.pom
+2015-01-11 11:19:39,175 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/jackrabbit-spi-commons/2.4.3/jackrabbit-spi-commons-2.4.3.pom
+2015-01-11 11:19:39,295 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-spi-commons/2.4.3/jackrabbit-spi-commons-2.4.3.pom
+2015-01-11 11:19:39,495 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-spi-commons/2.4.3/jackrabbit-spi-commons-2.4.3.pom
+2015-01-11 11:19:39,909 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/jackrabbit-spi/2.4.3/jackrabbit-spi-2.4.3.pom
+2015-01-11 11:19:39,989 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-spi/2.4.3/jackrabbit-spi-2.4.3.pom
+2015-01-11 11:19:40,129 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-spi/2.4.3/jackrabbit-spi-2.4.3.pom
+2015-01-11 11:19:40,489 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/tika/tika-core/1.0/tika-core-1.0.pom
+2015-01-11 11:19:40,786 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/tika/tika-core/1.0/tika-core-1.0.pom
+2015-01-11 11:19:41,176 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/tika/tika-parent/1.0/tika-parent-1.0.pom
+2015-01-11 11:19:41,446 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/tika/tika-parent/1.0/tika-parent-1.0.pom
+2015-01-11 11:19:41,922 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/lucene/lucene-core/3.0.3/lucene-core-3.0.3.pom
+2015-01-11 11:19:42,146 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/lucene/lucene-core/3.0.3/lucene-core-3.0.3.pom
+2015-01-11 11:19:42,546 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/lucene/lucene-parent/3.0.3/lucene-parent-3.0.3.pom
+2015-01-11 11:19:42,923 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/lucene/lucene-parent/3.0.3/lucene-parent-3.0.3.pom
+2015-01-11 11:19:43,336 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/derby/derby/10.5.3.0_1/derby-10.5.3.0_1.pom
+2015-01-11 11:19:43,586 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/derby/derby/10.5.3.0_1/derby-10.5.3.0_1.pom
+2015-01-11 11:19:44,072 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/derby/derby-project/10.5.3.0_1/derby-project-10.5.3.0_1.pom
+2015-01-11 11:19:44,422 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/derby/derby-project/10.5.3.0_1/derby-project-10.5.3.0_1.pom
+2015-01-11 11:19:45,049 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/slf4j/jcl-over-slf4j/1.6.4/jcl-over-slf4j-1.6.4.pom
+2015-01-11 11:19:45,319 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/slf4j/jcl-over-slf4j/1.6.4/jcl-over-slf4j-1.6.4.pom
+2015-01-11 11:19:45,779 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/slf4j/slf4j-parent/1.6.4/slf4j-parent-1.6.4.pom
+2015-01-11 11:19:46,129 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/slf4j/slf4j-parent/1.6.4/slf4j-parent-1.6.4.pom
+2015-01-11 11:19:46,529 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/sling/org.apache.sling.jcr.api/2.0.4/org.apache.sling.jcr.api-2.0.4.pom
+2015-01-11 11:19:46,897 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/sling/org.apache.sling.jcr.api/2.0.4/org.apache.sling.jcr.api-2.0.4.pom
+2015-01-11 11:19:47,419 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/sling/sling/6/sling-6.pom
+2015-01-11 11:19:47,766 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/sling/sling/6/sling-6.pom
+2015-01-11 11:19:48,386 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/jackrabbit-api/2.2.0/jackrabbit-api-2.2.0.pom
+2015-01-11 11:19:48,689 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/jackrabbit-api/2.2.0/jackrabbit-api-2.2.0.pom
+2015-01-11 11:19:49,082 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/jackrabbit-parent/2.2.0/jackrabbit-parent-2.2.0.pom
+2015-01-11 11:19:49,402 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/jackrabbit-parent/2.2.0/jackrabbit-parent-2.2.0.pom
+2015-01-11 11:19:49,844 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/parent/5/parent-5.pom
+2015-01-11 11:19:50,141 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/parent/5/parent-5.pom
+2015-01-11 11:19:50,671 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/sling/org.apache.sling.api/2.1.0/org.apache.sling.api-2.1.0.pom
+2015-01-11 11:19:51,084 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/sling/org.apache.sling.api/2.1.0/org.apache.sling.api-2.1.0.pom
+2015-01-11 11:19:51,534 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/sling/sling/9/sling-9.pom
+2015-01-11 11:19:51,884 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/sling/sling/9/sling-9.pom
+2015-01-11 11:19:52,569 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/com/day/cq/cq-search/5.5.4/cq-search-5.5.4.jar
+2015-01-11 11:19:53,065 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/com/day/cq/cq-search/5.5.4/cq-search-5.5.4.jar
+2015-01-11 11:19:53,376 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/com/day/cq/cq-statistics/5.4.0/cq-statistics-5.4.0.jar
+2015-01-11 11:19:53,851 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/com/day/cq/cq-statistics/5.4.0/cq-statistics-5.4.0.jar
+2015-01-11 11:19:54,191 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/com/day/cq/cq-commons/5.4.0/cq-commons-5.4.0.jar
+2015-01-11 11:19:55,189 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/com/day/cq/cq-commons/5.4.0/cq-commons-5.4.0.jar
+2015-01-11 11:19:55,519 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/commons/commons-email/1.2/commons-email-1.2.jar
+2015-01-11 11:19:56,027 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/commons/commons-email/1.2/commons-email-1.2.jar
+2015-01-11 11:19:56,318 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/javax/mail/mail/1.4.1/mail-1.4.1.jar
+2015-01-11 11:19:57,202 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/javax/mail/mail/1.4.1/mail-1.4.1.jar
+2015-01-11 11:19:57,505 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/javax/activation/activation/1.1/activation-1.1.jar
+2015-01-11 11:19:57,969 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/javax/activation/activation/1.1/activation-1.1.jar
+2015-01-11 11:19:58,287 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/joda-time/joda-time/1.5.2/joda-time-1.5.2.jar
+2015-01-11 11:19:59,193 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/joda-time/joda-time/1.5.2/joda-time-1.5.2.jar
+2015-01-11 11:19:59,515 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/felix/org.osgi.core/1.4.0/org.osgi.core-1.4.0.jar
+2015-01-11 11:20:00,042 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/felix/org.osgi.core/1.4.0/org.osgi.core-1.4.0.jar
+2015-01-11 11:20:00,339 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/jackrabbit-core/2.4.3/jackrabbit-core-2.4.3.jar
+2015-01-11 11:20:00,679 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/concurrent/concurrent/1.3.4/concurrent-1.3.4.jar
+2015-01-11 11:20:01,441 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/concurrent/concurrent/1.3.4/concurrent-1.3.4.jar
+2015-01-11 11:20:01,795 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/commons-dbcp/commons-dbcp/1.3/commons-dbcp-1.3.jar
+2015-01-11 11:20:02,333 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/commons-dbcp/commons-dbcp/1.3/commons-dbcp-1.3.jar
+2015-01-11 11:20:02,733 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4.jar
+2015-01-11 11:20:03,231 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4.jar
+2015-01-11 11:20:03,561 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/jackrabbit-spi-commons/2.4.3/jackrabbit-spi-commons-2.4.3.jar
+2015-01-11 11:20:03,902 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/jackrabbit-spi/2.4.3/jackrabbit-spi-2.4.3.jar
+2015-01-11 11:20:04,244 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/tika/tika-core/1.0/tika-core-1.0.jar
+2015-01-11 11:20:05,242 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/tika/tika-core/1.0/tika-core-1.0.jar
+2015-01-11 11:20:05,562 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/lucene/lucene-core/3.0.3/lucene-core-3.0.3.jar
+2015-01-11 11:20:06,942 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/lucene/lucene-core/3.0.3/lucene-core-3.0.3.jar
+2015-01-11 11:20:07,332 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/derby/derby/10.5.3.0_1/derby-10.5.3.0_1.jar
+2015-01-11 11:20:13,111 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/derby/derby/10.5.3.0_1/derby-10.5.3.0_1.jar
+2015-01-11 11:20:13,468 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/slf4j/jcl-over-slf4j/1.6.4/jcl-over-slf4j-1.6.4.jar
+2015-01-11 11:20:13,781 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/slf4j/jcl-over-slf4j/1.6.4/jcl-over-slf4j-1.6.4.jar
+2015-01-11 11:20:14,181 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/jackrabbit-jcr-commons/2.4.3/jackrabbit-jcr-commons-2.4.3.jar
+2015-01-11 11:20:14,522 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/sling/org.apache.sling.jcr.api/2.0.4/org.apache.sling.jcr.api-2.0.4.jar
+2015-01-11 11:20:14,902 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/sling/org.apache.sling.jcr.api/2.0.4/org.apache.sling.jcr.api-2.0.4.jar
+2015-01-11 11:20:15,182 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/jackrabbit-api/2.2.0/jackrabbit-api-2.2.0.jar
+2015-01-11 11:20:15,482 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/jackrabbit-api/2.2.0/jackrabbit-api-2.2.0.jar
+2015-01-11 11:20:15,953 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/org/apache/sling/org.apache.sling.api/2.1.0/org.apache.sling.api-2.1.0.jar
+2015-01-11 11:20:16,582 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/sling/org.apache.sling.api/2.1.0/org.apache.sling.api-2.1.0.jar
+2015-01-11 11:20:24,993 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-core/2.4.3/jackrabbit-core-2.4.3.jar
+2015-01-11 11:20:27,185 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-core/2.4.3/jackrabbit-core-2.4.3.jar
+2015-01-11 11:20:27,255 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-spi-commons/2.4.3/jackrabbit-spi-commons-2.4.3.jar
+2015-01-11 11:20:28,033 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-spi-commons/2.4.3/jackrabbit-spi-commons-2.4.3.jar
+2015-01-11 11:20:28,103 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-spi/2.4.3/jackrabbit-spi-2.4.3.jar
+2015-01-11 11:20:28,485 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-spi/2.4.3/jackrabbit-spi-2.4.3.jar
+2015-01-11 11:20:28,555 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-jcr-commons/2.4.3/jackrabbit-jcr-commons-2.4.3.jar
+2015-01-11 11:20:29,347 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-jcr-commons/2.4.3/jackrabbit-jcr-commons-2.4.3.jar
+2015-01-11 11:49:07,272 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\pom.xml.
+2015-01-11 11:49:13,374 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:49:13,392 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 11:49:13,398 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:49:13,400 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 11:49:13,406 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-bundle/src/main/java
+2015-01-11 11:49:13,415 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-bundle/src/test/java
+2015-01-11 11:49:16,114 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\pom.xml.
+2015-01-11 11:49:18,005 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-content/src/main/java
+2015-01-11 11:49:18,007 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /users-content/src/main/content/jcr_root overlaps with sources folder /users-content/src/main/content/jcr_root
+2015-01-11 11:49:18,132 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-content/src/test/java
+2015-01-11 11:49:18,410 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-01-11 11:49:18,913 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\pom.xml.
+2015-01-11 11:49:20,613 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-01-11 11:49:20,873 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\pom.xml.
+2015-01-11 11:49:22,125 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-bundle/src/main/java
+2015-01-11 11:49:22,135 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-bundle/src/test/java
+2015-01-11 11:49:22,155 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-content/src/main/java
+2015-01-11 11:49:22,155 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /users-content/src/main/content/jcr_root overlaps with sources folder /users-content/src/main/content/jcr_root
+2015-01-11 11:49:22,165 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-content/src/test/java
+2015-01-11 11:49:23,540 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2015-01-11 11:49:23,543 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2015-01-11 11:49:25,478 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:49:25,478 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 11:49:25,478 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:49:25,488 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 11:49:26,665 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:49:26,758 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-01-11 11:49:26,812 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:49:26,814 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\src\test\resources
+2015-01-11 11:50:29,199 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.aem.users:users:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\pom.xml.
+2015-01-11 11:50:29,487 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\pom.xml.
+2015-01-11 11:50:30,682 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\pom.xml.
+2015-01-11 11:50:34,002 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-bundle/src/main/java
+2015-01-11 11:50:34,051 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-bundle/src/test/java
+2015-01-11 11:50:34,777 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-content/src/main/java
+2015-01-11 11:50:34,778 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /users-content/src/main/content/jcr_root overlaps with sources folder /users-content/src/main/content/jcr_root
+2015-01-11 11:50:34,781 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-content/src/test/java
+2015-01-11 11:50:35,313 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 6 sec
+2015-01-11 11:50:35,434 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\pom.xml.
+2015-01-11 11:50:38,091 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\pom.xml.
+2015-01-11 11:50:38,990 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.aem.users:users:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\pom.xml.
+2015-01-11 11:50:39,484 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\pom.xml.
+2015-01-11 11:50:39,507 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:50:39,509 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 11:50:39,513 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:50:39,515 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 11:50:41,328 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\pom.xml.
+2015-01-11 11:50:42,353 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:50:42,362 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-01-11 11:50:42,391 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:50:42,393 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\src\test\resources
+2015-01-11 11:50:46,488 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:50:46,491 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 11:50:46,495 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:50:46,497 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 11:50:48,837 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:50:48,854 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-01-11 11:50:48,861 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:50:48,877 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\src\test\resources
+2015-01-11 11:51:36,151 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:51:36,153 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 11:51:36,157 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:51:36,159 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 11:58:09,447 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.aem.users:users:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\pom.xml.
+2015-01-11 11:58:09,753 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\pom.xml.
+2015-01-11 11:58:10,075 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\pom.xml.
+2015-01-11 11:58:10,728 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-bundle/src/main/java
+2015-01-11 11:58:10,728 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-bundle/src/test/java
+2015-01-11 11:58:10,938 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-content/src/main/java
+2015-01-11 11:58:10,938 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /users-content/src/main/content/jcr_root overlaps with sources folder /users-content/src/main/content/jcr_root
+2015-01-11 11:58:10,938 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-content/src/test/java
+2015-01-11 11:58:11,128 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 2 sec
+2015-01-11 11:58:11,778 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.aem.users:users:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\pom.xml.
+2015-01-11 11:58:12,076 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\pom.xml.
+2015-01-11 11:58:12,158 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\pom.xml.
+2015-01-11 11:58:12,865 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:58:12,865 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 11:58:12,875 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:58:12,875 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 11:58:13,149 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\pom.xml.
+2015-01-11 11:58:13,299 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:58:13,299 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-01-11 11:58:13,319 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:58:13,319 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\src\test\resources
+2015-01-11 11:58:14,314 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.aem.users:users:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\pom.xml.
+2015-01-11 11:58:14,698 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\pom.xml.
+2015-01-11 11:58:15,013 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\pom.xml.
+2015-01-11 11:58:15,293 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\pom.xml.
+2015-01-11 11:58:15,583 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\pom.xml.
+2015-01-11 11:58:16,733 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:58:16,733 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 11:58:16,733 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:58:16,733 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 11:58:16,823 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:58:16,823 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-01-11 11:58:16,833 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:58:16,833 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\src\test\resources
+2015-01-11 11:59:30,493 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:59:30,498 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 11:59:30,504 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:59:30,515 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 11:59:44,529 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:59:44,529 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 11:59:44,529 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:59:44,529 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 11:59:56,715 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:59:56,717 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 11:59:56,720 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 11:59:56,723 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 12:00:14,584 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:00:14,584 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 12:00:14,594 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:00:14,594 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 12:01:09,882 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\pom.xml.
+2015-01-11 12:01:11,160 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\pom.xml.
+2015-01-11 12:01:12,443 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:01:12,443 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 12:01:12,453 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:01:12,453 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 12:01:13,364 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:01:13,380 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-01-11 12:01:13,411 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:01:13,413 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\src\test\resources
+2015-01-11 12:01:17,551 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:01:17,555 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 12:01:17,565 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:01:17,596 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 12:15:16,120 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:15:16,120 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 12:15:16,120 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:15:16,130 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 12:15:17,448 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:15:17,458 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 12:15:17,458 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:15:17,458 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 12:15:47,036 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:15:47,036 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 12:15:47,046 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:15:47,046 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 12:15:59,103 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:15:59,105 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 12:15:59,108 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:15:59,110 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 12:36:49,660 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:36:49,660 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 12:36:49,660 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:36:49,676 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 12:48:33,111 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:48:33,113 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 12:48:33,117 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:48:33,119 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 12:48:34,227 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:48:34,229 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 12:48:34,234 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:48:34,236 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 12:54:13,678 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:54:13,680 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 12:54:13,684 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:54:13,686 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 12:54:14,788 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:54:14,790 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 12:54:14,795 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:54:14,798 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 12:54:17,612 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:54:17,614 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 12:54:17,618 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:54:17,620 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 12:58:36,211 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:58:36,214 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 12:58:36,219 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:58:36,221 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 12:58:37,341 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:58:37,342 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 12:58:37,342 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 12:58:37,342 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 13:18:37,644 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 13:18:37,675 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 13:18:37,684 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 13:18:37,686 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 13:19:13,071 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 13:19:13,071 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 13:19:13,081 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 13:19:13,081 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 13:19:39,936 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 13:19:39,936 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 13:19:39,946 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 13:19:39,946 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 13:21:04,098 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 13:21:04,098 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 13:21:04,108 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 13:21:04,108 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 13:21:27,983 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 13:21:27,983 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 13:21:27,983 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 13:21:27,983 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 13:25:31,079 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 13:25:31,079 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 13:25:31,099 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 13:25:31,099 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 13:25:47,386 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 13:25:47,386 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 13:25:47,396 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 13:25:47,396 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 13:28:19,628 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 13:28:19,631 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 13:28:19,664 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 13:28:19,666 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 13:39:06,123 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 13:39:06,133 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 13:39:06,133 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 13:39:06,133 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 16:36:46,424 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 16:36:46,455 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 16:36:46,455 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 16:36:46,455 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 16:40:45,534 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 16:40:45,536 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 16:40:45,539 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 16:40:45,541 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 16:40:46,603 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 16:40:46,605 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 16:40:46,609 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 16:40:46,611 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 16:40:55,828 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 16:40:55,829 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 16:40:55,832 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 16:40:55,834 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 16:40:56,887 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 16:40:56,889 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 16:40:56,892 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 16:40:56,894 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 16:55:04,951 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 16:55:04,953 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 16:55:04,964 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 16:55:04,966 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 16:55:06,059 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 16:55:06,061 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 16:55:06,065 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 16:55:06,067 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 17:37:31,312 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:37:31,314 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 17:37:31,317 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:37:31,319 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 17:37:32,435 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:37:32,437 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 17:37:32,441 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:37:32,443 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 17:38:05,899 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:38:05,900 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 17:38:05,904 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:38:05,906 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-11 17:39:59,133 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:39:59,136 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-11 17:39:59,139 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-11 17:39:59,141 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-12 06:45:11,964 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 06:45:11,995 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-12 06:45:11,995 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 06:45:11,995 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-12 06:45:17,473 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 06:45:17,504 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-01-12 06:45:17,551 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 06:45:17,551 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\src\test\resources
+2015-01-12 06:48:01,139 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 06:48:01,139 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-12 06:48:01,139 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 06:48:01,155 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-12 06:54:11,162 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-01-12 06:54:12,396 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.aem.users:users:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\pom.xml.
+2015-01-12 06:54:13,834 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\pom.xml.
+2015-01-12 06:54:15,232 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\pom.xml.
+2015-01-12 06:54:16,868 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-bundle/src/main/java
+2015-01-12 06:54:16,868 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-bundle/src/test/java
+2015-01-12 06:54:17,743 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-content/src/main/java
+2015-01-12 06:54:17,743 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /users-content/src/main/content/jcr_root overlaps with sources folder /users-content/src/main/content/jcr_root
+2015-01-12 06:54:17,743 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-content/src/test/java
+2015-01-12 06:54:18,355 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2015-01-12 06:54:19,916 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 06:54:19,931 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-12 06:54:19,931 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 06:54:19,931 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-12 06:54:20,691 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 06:54:20,707 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-01-12 06:54:20,722 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 06:54:20,722 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\src\test\resources
+2015-01-12 06:56:28,434 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\pom.xml.
+2015-01-12 06:56:30,512 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/sling/org.apache.sling.api/2.8.0/org.apache.sling.api-2.8.0.pom
+2015-01-12 06:56:31,090 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/sling/org.apache.sling.api/2.8.0/org.apache.sling.api-2.8.0.pom
+2015-01-12 06:56:31,481 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/sling/org.apache.sling.api/2.8.0/org.apache.sling.api-2.8.0.pom
+2015-01-12 06:56:32,106 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/sling/sling/20/sling-20.pom
+2015-01-12 06:56:32,340 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/sling/sling/20/sling-20.pom
+2015-01-12 06:56:32,981 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/sling/sling/20/sling-20.pom
+2015-01-12 06:56:34,168 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/com/day/cq/wcm/cq-wcm-api/5.5.0/cq-wcm-api-5.5.0.pom
+2015-01-12 06:56:34,809 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/com/day/cq/wcm/cq-wcm-api/5.5.0/cq-wcm-api-5.5.0.pom
+2015-01-12 06:56:35,825 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/com/day/cq/cq-commons/5.5.0/cq-commons-5.5.0.pom
+2015-01-12 06:56:36,747 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/com/day/cq/cq-commons/5.5.0/cq-commons-5.5.0.pom
+2015-01-12 06:56:38,466 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/sling/org.apache.sling.api/2.8.0/org.apache.sling.api-2.8.0.jar
+2015-01-12 06:56:39,434 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/org/apache/jackrabbit/jackrabbit-api/2.4.3/jackrabbit-api-2.4.3.jar
+2015-01-12 06:56:40,263 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/com/day/cq/wcm/cq-wcm-api/5.5.0/cq-wcm-api-5.5.0.jar
+2015-01-12 06:56:41,216 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/com/day/cq/wcm/cq-wcm-api/5.5.0/cq-wcm-api-5.5.0.jar
+2015-01-12 06:56:41,981 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.adobe.com/nexus/content/groups/public/com/day/cq/cq-commons/5.5.0/cq-commons-5.5.0.jar
+2015-01-12 06:56:43,122 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.adobe.com/nexus/content/groups/public/com/day/cq/cq-commons/5.5.0/cq-commons-5.5.0.jar
+2015-01-12 06:56:44,044 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/sling/org.apache.sling.api/2.8.0/org.apache.sling.api-2.8.0.jar
+2015-01-12 06:56:44,966 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/sling/org.apache.sling.api/2.8.0/org.apache.sling.api-2.8.0.jar
+2015-01-12 06:56:45,169 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-api/2.4.3/jackrabbit-api-2.4.3.jar
+2015-01-12 06:56:45,653 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/jackrabbit/jackrabbit-api/2.4.3/jackrabbit-api-2.4.3.jar
+2015-01-12 06:56:46,263 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\pom.xml.
+2015-01-12 06:56:47,263 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 06:56:47,263 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-12 06:56:47,263 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 06:56:47,263 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-12 06:56:48,044 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 06:56:48,060 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-01-12 06:56:48,091 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 06:56:48,091 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\src\test\resources
+2015-01-12 06:56:50,372 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 06:56:50,372 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-12 06:56:50,372 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 06:56:50,372 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-12 07:08:17,099 [Worker-1] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:567) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:511) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:466) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:289) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: processing instruction can not have PITarget with reserveld xml name (position: END_TAG seen ...</plugins>\r\n    </build>\r\n\r\n<?xml ... @61:7) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:556) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: processing instruction can not have PITarget with reserveld xml name (position: END_TAG seen ...</plugins>\r\n    </build>\r\n\r\n<?xml ... @61:7) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parsePI(MXParser.java:2502) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1283) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1116) ~[plexus-utils-3.0.17.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2030) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	... 26 common frames omitted
+2015-01-12 07:08:17,302 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\pom.xml.
+2015-01-12 07:08:19,722 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:08:19,738 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-01-12 07:08:19,769 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:08:19,769 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\src\test\resources
+2015-01-12 07:08:21,222 [Worker-0] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:567) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:511) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:466) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:289) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: processing instruction can not have PITarget with reserveld xml name (position: END_TAG seen ...</plugins>\r\n    </build>\r\n\r\n<?xml ... @61:7) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:556) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: processing instruction can not have PITarget with reserveld xml name (position: END_TAG seen ...</plugins>\r\n    </build>\r\n\r\n<?xml ... @61:7) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parsePI(MXParser.java:2502) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1283) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1116) ~[plexus-utils-3.0.17.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2030) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	... 26 common frames omitted
+2015-01-12 07:08:39,427 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-01-12 07:08:39,777 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.aem.users:users:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\pom.xml.
+2015-01-12 07:08:39,777 [Worker-3] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:567) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:511) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:466) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:289) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:374) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:321) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:318) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: processing instruction can not have PITarget with reserveld xml name (position: END_TAG seen ...</plugins>\r\n    </build>\r\n\r\n<?xml ... @61:7) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:556) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	... 16 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: processing instruction can not have PITarget with reserveld xml name (position: END_TAG seen ...</plugins>\r\n    </build>\r\n\r\n<?xml ... @61:7) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parsePI(MXParser.java:2502) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1283) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1116) ~[plexus-utils-3.0.17.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2030) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	... 18 common frames omitted
+2015-01-12 07:08:39,949 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\pom.xml.
+2015-01-12 07:08:40,884 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-content/src/main/java
+2015-01-12 07:08:40,884 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /users-content/src/main/content/jcr_root overlaps with sources folder /users-content/src/main/content/jcr_root
+2015-01-12 07:08:40,884 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-content/src/test/java
+2015-01-12 07:08:41,275 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-01-12 07:08:41,478 [Worker-8] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:567) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:511) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:466) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:289) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: processing instruction can not have PITarget with reserveld xml name (position: END_TAG seen ...</plugins>\r\n    </build>\r\n\r\n<?xml ... @61:7) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:556) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: processing instruction can not have PITarget with reserveld xml name (position: END_TAG seen ...</plugins>\r\n    </build>\r\n\r\n<?xml ... @61:7) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parsePI(MXParser.java:2502) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1283) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1116) ~[plexus-utils-3.0.17.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2030) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	... 26 common frames omitted
+2015-01-12 07:08:42,306 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:08:42,306 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-01-12 07:08:42,337 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:08:42,337 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\src\test\resources
+2015-01-12 07:10:38,732 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\pom.xml.
+2015-01-12 07:10:40,065 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\pom.xml.
+2015-01-12 07:10:41,216 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:10:41,216 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-12 07:10:41,216 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:10:41,232 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-12 07:10:42,447 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:10:42,447 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-01-12 07:10:42,587 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:10:42,603 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\src\test\resources
+2015-01-12 07:10:45,134 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:10:45,134 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-12 07:10:45,134 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:10:45,134 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-12 07:13:52,083 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\pom.xml.
+2015-01-12 07:13:53,052 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\pom.xml.
+2015-01-12 07:13:54,318 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:13:54,318 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-12 07:13:54,318 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:13:54,318 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-12 07:13:55,036 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:13:55,036 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-01-12 07:13:55,067 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:13:55,067 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\content\src\test\resources
+2015-01-12 07:13:58,058 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:13:58,058 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-12 07:13:58,074 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:13:58,074 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-12 07:14:29,485 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-01-12 07:14:29,797 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.aem.users:users-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\pom.xml.
+2015-01-12 07:14:31,156 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-bundle/src/main/java
+2015-01-12 07:14:31,156 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /users-bundle/src/test/java
+2015-01-12 07:14:31,625 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2015-01-12 07:14:33,047 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:14:33,047 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-12 07:14:33,047 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:14:33,047 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-12 07:15:50,736 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:15:50,736 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\main\resources
+2015-01-12 07:15:50,736 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:15:50,751 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\users\bundle\src\test\resources
+2015-01-12 07:20:44,414 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.community.aem:slingjcr:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\pom.xml.
+2015-01-12 07:20:44,624 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.community.aem:slingjcr-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\pom.xml.
+2015-01-12 07:20:44,919 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.community.aem:slingjcr-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\content\pom.xml.
+2015-01-12 07:20:45,846 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /slingjcr-bundle/src/main/java
+2015-01-12 07:20:45,846 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /slingjcr-bundle/src/test/java
+2015-01-12 07:20:46,110 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /slingjcr-content/src/main/java
+2015-01-12 07:20:46,110 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /slingjcr-content/src/main/content/jcr_root overlaps with sources folder /slingjcr-content/src/main/content/jcr_root
+2015-01-12 07:20:46,110 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /slingjcr-content/src/test/java
+2015-01-12 07:20:46,313 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 2 sec
+2015-01-12 07:20:47,273 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.community.aem:slingjcr-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\pom.xml.
+2015-01-12 07:20:47,818 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:20:47,834 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\main\resources
+2015-01-12 07:20:47,834 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:20:47,834 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\test\resources
+2015-01-12 07:20:48,380 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.community.aem:slingjcr-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\content\pom.xml.
+2015-01-12 07:20:48,521 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:20:48,537 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-01-12 07:20:48,552 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:20:48,552 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\content\src\test\resources
+2015-01-12 07:20:49,224 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.community.aem:slingjcr:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\pom.xml.
+2015-01-12 07:20:49,474 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.community.aem:slingjcr-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\pom.xml.
+2015-01-12 07:20:49,771 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.community.aem:slingjcr-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\content\pom.xml.
+2015-01-12 07:20:50,037 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.community.aem:slingjcr-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\pom.xml.
+2015-01-12 07:20:50,291 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.community.aem:slingjcr-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\content\pom.xml.
+2015-01-12 07:20:50,947 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:20:50,947 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\main\resources
+2015-01-12 07:20:50,947 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:20:50,947 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\test\resources
+2015-01-12 07:20:51,041 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:20:51,041 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-01-12 07:20:51,041 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:20:51,041 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\content\src\test\resources
+2015-01-12 07:22:13,146 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:22:13,146 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\main\resources
+2015-01-12 07:22:13,146 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:22:13,146 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\test\resources
+2015-01-12 07:23:03,658 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.community.aem:slingjcr-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\pom.xml.
+2015-01-12 07:23:04,544 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.community.aem:slingjcr-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\content\pom.xml.
+2015-01-12 07:23:05,612 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:23:05,612 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\main\resources
+2015-01-12 07:23:05,612 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:23:05,612 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\test\resources
+2015-01-12 07:23:06,248 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:23:06,260 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-01-12 07:23:06,276 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:23:06,276 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\content\src\test\resources
+2015-01-12 07:23:08,841 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:23:08,841 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\main\resources
+2015-01-12 07:23:08,856 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:23:08,856 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\test\resources
+2015-01-12 07:23:42,717 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:23:42,717 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\main\resources
+2015-01-12 07:23:42,717 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:23:42,717 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\test\resources
+2015-01-12 07:23:59,143 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:23:59,143 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\main\resources
+2015-01-12 07:23:59,143 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:23:59,143 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\test\resources
+2015-01-12 07:24:19,073 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:24:19,073 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\main\resources
+2015-01-12 07:24:19,073 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 07:24:19,088 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\test\resources
+2015-01-12 08:10:25,934 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 08:10:25,934 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\main\resources
+2015-01-12 08:10:25,934 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 08:10:25,934 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\test\resources
+2015-01-12 08:10:27,060 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 08:10:27,060 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\main\resources
+2015-01-12 08:10:27,076 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 08:10:27,076 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\test\resources
+2015-01-12 08:11:37,549 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 08:11:37,549 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\main\resources
+2015-01-12 08:11:37,549 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 08:11:37,549 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\test\resources
+2015-01-12 08:15:16,265 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 08:15:16,265 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\main\resources
+2015-01-12 08:15:16,265 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 08:15:16,265 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\test\resources
+2015-01-12 08:15:17,359 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 08:15:17,359 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\main\resources
+2015-01-12 08:15:17,359 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 08:15:17,359 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\test\resources
+2015-01-12 08:17:26,439 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-01-12 08:17:26,751 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.community.aem:slingjcr:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\pom.xml.
+2015-01-12 08:17:26,954 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.community.aem:slingjcr-bundle:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\pom.xml.
+2015-01-12 08:17:27,892 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: com.community.aem:slingjcr-content:1.0-SNAPSHOT @ C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\content\pom.xml.
+2015-01-12 08:17:29,220 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /slingjcr-bundle/src/main/java
+2015-01-12 08:17:29,220 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /slingjcr-bundle/src/test/java
+2015-01-12 08:17:29,501 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /slingjcr-content/src/main/java
+2015-01-12 08:17:29,501 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /slingjcr-content/src/main/content/jcr_root overlaps with sources folder /slingjcr-content/src/main/content/jcr_root
+2015-01-12 08:17:29,501 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /slingjcr-content/src/test/java
+2015-01-12 08:17:29,954 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2015-01-12 08:17:31,142 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 08:17:31,158 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\main\resources
+2015-01-12 08:17:31,158 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 08:17:31,158 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\bundle\src\test\resources
+2015-01-12 08:17:31,751 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 08:17:31,767 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-01-12 08:17:31,783 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-12 08:17:31,783 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\scott\Documents\eclipse\workspaces\aem\slingjcr\content\src\test\resources

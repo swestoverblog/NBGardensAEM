@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:lastModified="{Date}2012-12-12T22:36:56.487-08:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:Group"
+    jcr:uuid="b6f77bad-b4fb-3a05-942c-05be9359f6af"
+    rep:members="{WeakReference}[094adfb3-3ee3-3150-9308-bad469e2a111,a56a94bf-6b1c-32f5-bd3f-2524c42def08,a4548ed6-ab3c-31b8-92f6-9a969e52415e,e74bb74e-10aa-34d1-9a5f-0ba97fd74724,f0960f73-11c7-3b66-ac82-cfa984efde9c,4a571b14-006a-307a-a768-7822e7897aaf,ee2809ff-dce5-3c09-a843-8d943bdf42c4,50296b00-8d87-325c-a42c-d2424777abfa,7fd9d0ff-ef19-3330-b682-e5e6105cf6de,0be50029-0b70-3f7a-9449-3834b63b0bb4,9d42ce69-609b-361e-85a1-5bbbb559c309,ad2f92ae-0748-3a89-ad2f-b5e019c64397,16526e48-5bd0-3e57-a6ef-f2a91f029ae1,f9ffd8b0-1887-302c-963b-18ec19132b5f,d22f0bd9-285a-3fe4-bc73-bfa6e18570c0,a137e1e4-31cd-3491-85a4-9263597e9bdd,709ea593-7196-3cba-a87d-ba09e34a205f,89b46f84-2f98-31de-a505-9ae063311f57,8a1af2af-09af-3b4d-acdc-7d66e0ae6a51,e0678322-5686-3762-92aa-19a28ec57024,fbba7040-b1e0-3fa9-9b24-2f3428f21757,27c55f02-efd9-39da-a63d-bb455048cd27,3eeb78b9-f2fa-3718-ba28-2ac1a3283e7c]"
+    rep:principalName="winter-sports-members">
+    <preferences
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq:Preferences"/>
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        givenName="winter-sports-members"/>
+</jcr:root>

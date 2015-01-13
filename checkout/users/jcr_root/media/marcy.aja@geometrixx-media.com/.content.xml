@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:lastModified="{Date}2013-01-07T15:03:35.067-05:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="c99bc389-bde6-3c41-9e7a-25ef62241d5f"
+    rep:password="\{SHA-256}e92bcfa46f53a3d4-1000-b294bf2252a42ca098bc8a34794381f25928fa7cf0e4b006b5d5cd8411fefcf9"
+    rep:principalName="marcy.aja@geometrixx-media.com">
+    <preferences
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq:Preferences"/>
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="marcy.aja@geometrixx-media.com"
+        familyName="Aja"
+        givenName="Marcy"/>
+</jcr:root>

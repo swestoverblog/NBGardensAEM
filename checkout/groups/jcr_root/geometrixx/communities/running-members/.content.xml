@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:lastModified="{Date}2012-12-12T22:31:36.118-08:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:Group"
+    jcr:uuid="a2076241-af43-3943-9437-5a52a10b6b1d"
+    rep:members="{WeakReference}[98e61024-df0b-3529-b6e7-0ce3b088428a,a56a94bf-6b1c-32f5-bd3f-2524c42def08,ee2809ff-dce5-3c09-a843-8d943bdf42c4,9253def2-e0b5-3b5c-ad02-0f7d79848d83,0be50029-0b70-3f7a-9449-3834b63b0bb4,7fd9d0ff-ef19-3330-b682-e5e6105cf6de,dcb629ad-542f-316d-9c2e-bbe47b3dca81,96019592-ee9b-3901-8384-74fe9b519bfe,a4548ed6-ab3c-31b8-92f6-9a969e52415e,62d3c1ca-45a9-310e-aafc-add10a73bb35,392fb9b6-ef25-3954-9e1e-9aba33ab1f96,709ea593-7196-3cba-a87d-ba09e34a205f,3eeb78b9-f2fa-3718-ba28-2ac1a3283e7c,f9ffd8b0-1887-302c-963b-18ec19132b5f,a137e1e4-31cd-3491-85a4-9263597e9bdd,f4f0918c-f09e-3217-89b9-040b43601144]"
+    rep:principalName="running-members">
+    <preferences
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq:Preferences"/>
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        givenName="running-members"/>
+</jcr:root>

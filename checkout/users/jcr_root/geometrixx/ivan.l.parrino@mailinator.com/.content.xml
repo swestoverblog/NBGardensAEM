@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-09-30T10:07:01.458+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="0507e37e-0f4c-3f52-8b19-348e8c20b854"
+    rep:password="\{SHA-256}9928eac47ca66967-1000-f0ba9d62f16f6ac65f78e39a748cc903080fe215940f0031324027d3135da276"
+    rep:principalName="ivan.l.parrino@mailinator.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        birthday="{Date}1976-08-18T00:00:00.000+01:00"
+        city="Houston"
+        email="Ivan.L.Parrino@mailinator.com"
+        familyName="Parrino"
+        friends="[aparker@geometrixx.info,larry.a.spiller@pookmail.com]"
+        gender="male"
+        givenName="Ivan"
+        jobTitle="Linemen"
+        middleName="L"
+        phoneNumber="936-215-4047"
+        postalCode="77063"
+        region="TX"
+        streetAddress="3267 Woodrow Way">
+        <photos/>
+    </profile>
+</jcr:root>

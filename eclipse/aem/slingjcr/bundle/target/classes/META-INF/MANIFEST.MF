@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1421079475084
+Build-Jdk: 1.7.0_71
+Built-By: scott
+Bundle-Description: Maven Multimodule project for Customer Training Pack
+ age.
+Bundle-ManifestVersion: 2
+Bundle-Name: aemsling Bundle
+Bundle-SymbolicName: com.community.aem.slingjcr-bundle
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.community.aem;uses:="javax.jcr,org.apache.jackrabbit
+ .api.security.user,org.slf4j,org.apache.sling.api.resource,org.osgi.fra
+ mework,org.osgi.service.component";version="1.0.0.SNAPSHOT"
+Import-Package: javax.jcr;version="[2.0,3)",org.apache.jackrabbit.api.se
+ curity.user;version="[2.3,3)",org.apache.sling.api.resource;version="[2
+ .5,3)",org.osgi.framework;version="[1.5,2)",org.osgi.service.component;
+ version="[1.1,2)",org.slf4j;version="[1.5,2)"
+Service-Component: OSGI-INF/serviceComponents.xml
+Tool: Bnd-1.50.0

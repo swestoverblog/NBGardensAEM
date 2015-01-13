@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="00297ff6-4c7e-3bc5-8a33-dc9be97654dd"
+    rep:password="\{SHA-256}66325081008ba5cb-1000-231682fec08230e1e18bcc18f29be3ba9c55de544b1ec9889119541521ba89b9"
+    rep:principalName="willard.ebbing@geometrixx-media.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="willard.ebbing@geometrixx-media.com"
+        familyName="Ebbing"
+        givenName="Willard"/>
+</jcr:root>

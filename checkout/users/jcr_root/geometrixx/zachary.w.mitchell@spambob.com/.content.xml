@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-09-30T10:08:00.622+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="19086cbb-03aa-3157-9ee6-1dbd6e45a4c0"
+    rep:password="\{SHA-256}7a10b4bd8c05aeed-1000-2ee89ff2277f67476632daf17154122122a4b0295f6692377e50147fd4e598e5"
+    rep:principalName="zachary.w.mitchell@spambob.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        birthday="{Date}1969-01-07T00:00:00.000+01:00"
+        city="El Paso"
+        email="Zachary.W.Mitchell@spambob.com"
+        familyName="Mitchell"
+        gender="male"
+        givenName="Zachary"
+        jobTitle="Orthotist"
+        middleName="W"
+        phoneNumber="915-852-7481"
+        postalCode="79927"
+        region="TX"
+        streetAddress="3490 Frederick Street">
+        <photos/>
+    </profile>
+</jcr:root>

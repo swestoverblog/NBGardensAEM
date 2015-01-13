@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:created="{Date}2012-12-04T14:17:39.843+01:00"
+    jcr:createdBy="josh.bradley@pookmail.com"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="josh.bradley@pookmail.com POST on Gearing up for my Kili hike. "
+    sling:resourceType="granite/activitystreams/components/activity"
+    verb="POST">
+    <object
+        jcr:description="Thanks for the reply, Don. That is good advice. Yes, I have a comprehensive list of items to bring. They even have “comfort food” on the list. Ha ha."
+        jcr:primaryType="nt:unstructured"
+        id="/content/usergenerated/content/geometrixx-outdoors/en/community/hiking/journal/2012/12/gearing_up_for_myki/jcr:content/comments/1Bucket/sl92-thanks_for_thereply"
+        objectType="comment"
+        subType="social/commons/components/comments/comment"/>
+    <target
+        jcr:primaryType="nt:unstructured"
+        displayName="Gearing up for my Kili hike. "
+        id="/content/geometrixx-outdoors/en/community/hiking/journal/2012/12/gearing_up_for_myki"
+        objectType="geometrixx-outdoors/components/journal/page"/>
+</jcr:root>

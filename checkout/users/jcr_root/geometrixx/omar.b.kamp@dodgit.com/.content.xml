@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-09-30T10:13:13.156+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="9f04a5ce-df48-384c-abd9-7d996b191513"
+    rep:password="\{SHA-256}bcfa8deac7b1b9e1-1000-5b6786e7b7682aa23dd2973d2e750d6fd8bbafb8746cd88da5c87f0fce092d75"
+    rep:principalName="omar.b.kamp@dodgit.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        birthday="{Date}1954-02-20T00:00:00.000+01:00"
+        city="Dublin"
+        email="Omar.B.Kamp@dodgit.com"
+        familyName="Kamp"
+        gender="male"
+        givenName="Omar"
+        jobTitle="Cleaning washing and metal pickling equipment operator"
+        middleName="B"
+        phoneNumber="707-396-5124"
+        postalCode="94568"
+        region="CA"
+        streetAddress="1516 Meadow Lane">
+        <photos/>
+    </profile>
+</jcr:root>

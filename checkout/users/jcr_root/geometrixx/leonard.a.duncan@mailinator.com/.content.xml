@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-09-30T10:08:03.113+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="07d2f387-3e27-3a14-a62b-6c91cb54eee6"
+    rep:password="\{SHA-256}6e88ad104f147f65-1000-c9c8b631df6f7426dc0dba9b1bb8221bbdb294174bd9b4c40deed9c6ad9c3831"
+    rep:principalName="leonard.a.duncan@mailinator.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        birthday="{Date}1986-09-27T00:00:00.000+01:00"
+        city="Brazito"
+        email="Leonard.A.Duncan@mailinator.com"
+        familyName="Duncan"
+        gender="male"
+        givenName="Leonard"
+        jobTitle="Taper"
+        middleName="A"
+        phoneNumber="573-691-6118"
+        postalCode="65109"
+        region="MO"
+        streetAddress="773 John Daniel Drive">
+        <photos/>
+    </profile>
+</jcr:root>

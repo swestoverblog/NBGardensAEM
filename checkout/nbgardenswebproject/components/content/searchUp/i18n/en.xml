@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0"
+    cq:lastReplicated="{Date}2015-01-11T16:12:15.222-08:00"
+    cq:lastReplicatedBy="admin"
+    cq:lastReplicationAction="Activate"
+    jcr:language="en"
+    jcr:mixinTypes="[cq:ReplicationStatus,mix:language]"
+    jcr:primaryType="sling:Folder">
+    <nextText
+        cq:lastReplicated="{Date}2015-01-11T16:12:16.362-08:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Activate"
+        jcr:mixinTypes="[cq:ReplicationStatus]"
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="nextText"
+        sling:message="Next"/>
+    <noResultsText
+        cq:lastReplicated="{Date}2015-01-11T16:12:16.664-08:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Activate"
+        jcr:mixinTypes="[cq:ReplicationStatus]"
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="noResultsText"
+        sling:message="Your search - &lt;b>{0}&lt;/b> - did not match any documents."/>
+    <previousText
+        cq:lastReplicated="{Date}2015-01-11T16:12:17.127-08:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Activate"
+        jcr:mixinTypes="[cq:ReplicationStatus]"
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="previousText"
+        sling:message="Previous"/>
+    <relatedSearchesText
+        cq:lastReplicated="{Date}2015-01-11T16:12:17.392-08:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Activate"
+        jcr:mixinTypes="[cq:ReplicationStatus]"
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="relatedSearchesText"
+        sling:message="Related searches:"/>
+    <resultPagesText
+        cq:lastReplicated="{Date}2015-01-11T16:12:17.853-08:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Activate"
+        jcr:mixinTypes="[cq:ReplicationStatus]"
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="resultPagesText"
+        sling:message="Results"/>
+    <searchButtonText
+        cq:lastReplicated="{Date}2015-01-11T16:12:18.102-08:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Activate"
+        jcr:mixinTypes="[cq:ReplicationStatus]"
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="searchButtonText"
+        sling:message="Search"/>
+    <searchTrendsText
+        cq:lastReplicated="{Date}2015-01-11T16:12:18.343-08:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Activate"
+        jcr:mixinTypes="[cq:ReplicationStatus]"
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="searchTrendsText"
+        sling:message="Search Trends"/>
+    <similarPagesText
+        cq:lastReplicated="{Date}2015-01-11T16:12:18.596-08:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Activate"
+        jcr:mixinTypes="[cq:ReplicationStatus]"
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="similarPagesText"
+        sling:message="Similar Pages"/>
+    <spellcheckText
+        cq:lastReplicated="{Date}2015-01-11T16:12:18.843-08:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Activate"
+        jcr:mixinTypes="[cq:ReplicationStatus]"
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="spellcheckText"
+        sling:message="Did you mean:"/>
+    <statisticsText
+        cq:lastReplicated="{Date}2015-01-11T16:12:19.079-08:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Activate"
+        jcr:mixinTypes="[cq:ReplicationStatus]"
+        jcr:primaryType="sling:MessageEntry"
+        sling:key="statisticsText"
+        sling:message="Results {0} - {1} of {2} for &lt;b>{3}&lt;/b>. ({4} seconds)"/>
+</jcr:root>

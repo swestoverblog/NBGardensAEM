@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="2c404f5d-8cf3-3edf-b726-5bf55780a763"
+    rep:password="\{SHA-256}f11b85624e6546a9-1000-85ebc7e837e311b7abcfcc393a6439857e25809a1ab22935f70bf3c29929264c"
+    rep:principalName="mathew.echavez@geometrixx-media.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="mathew.echavez@geometrixx-media.com"
+        familyName="Echavez"
+        givenName="Mathew"/>
+</jcr:root>

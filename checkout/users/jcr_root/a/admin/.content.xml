@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:lastModified="{Date}2015-01-11T17:44:48.005-08:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="21232f29-7a57-35a7-8389-4a0e4a801fc3"
+    rep:password="\{SHA-256}0ed62366381e4c23-1000-8205df3ba20249bcbe5698203f513c3252f798c29e0c3419272319f7dbf62414"
+    rep:principalName="admin">
+    <_x002e_tokens jcr:primaryType="nt:unstructured">
+        <_x0032_015-01-13T08.59.10.652Z
+            jcr:primaryType="nt:unstructured"
+            _x002e_token.exp="{Date}2015-01-13T20:59:10.652Z"
+            _x002e_token.key="\{sha1}44e93e054321ccbc1c544d82cfb9227ccb10638b"
+            ip="0:0:0:0:0:0:0:1"
+            referer="http://localhost:4502/libs/granite/core/content/login.html?resource=%2F&amp;$$login$$=%24%24login%24%24"
+            useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"/>
+    </_x002e_tokens>
+    <preferences
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq:Preferences"/>
+    <profile
+        jcr:mixinTypes="[rep:AccessControllable]"
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        familyName="Administrator">
+        <forum
+            jcr:primaryType="nt:unstructured"
+            numberOfPosts="{Double}3.0"/>
+    </profile>
+</jcr:root>

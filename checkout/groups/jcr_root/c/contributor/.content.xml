@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:Group"
+    jcr:uuid="bba23486-31bb-3ef0-a2b7-3dde6b38fdc1"
+    rep:members="{WeakReference}[429bbd5b-46a6-3c3d-808b-5fd4219d5c4d,ca58c408-fe06-357e-953c-2d23ffe1e096,3ebb1c04-76dd-317e-a9ee-5164182bc390,d3c827d3-4db2-30cc-9c41-0ed8117dbaff,f5777a0b-a933-3b4d-9405-613d8bc39cc7,65c3084e-abfc-3719-8223-72c6cb9a3d6f,fdd1547a-b19a-3154-90da-1eae8c2c3504]"
+    rep:principalName="contributor">
+    <profile
+        jcr:mixinTypes="[rep:AccessControllable]"
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        aboutMe="Base group for all user and groups that must be able to access the authoring environment."
+        givenName="Contributors"/>
+</jcr:root>

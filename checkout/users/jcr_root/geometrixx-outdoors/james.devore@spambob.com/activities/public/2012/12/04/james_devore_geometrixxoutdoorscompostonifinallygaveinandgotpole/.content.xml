@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:created="{Date}2012-12-04T14:28:12.654+01:00"
+    jcr:createdBy="james.devore@spambob.com"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="james.devore@spambob.com POST on I finally gave in and got poles."
+    sling:resourceType="granite/activitystreams/components/activity"
+    verb="POST">
+    <object
+        jcr:description="Weston, good call on giving in to your wife and using poles. I had a similar experience a few years ago, and now I don’t go on a hike without them. Sometimes I will just have them with me and not actually use them, but they are always good to have around. It sounds like you aren’t one to hike with a daypack, but I have a pack with a place to strap my poles on the outside, so it’s not an inconvenience at all."
+        jcr:primaryType="nt:unstructured"
+        id="/content/usergenerated/content/geometrixx-outdoors/en/community/hiking/journal/2012/12/i_finally_gave_inan/jcr:content/comments/1Bucket/w6ce-weston_goodcallon"
+        objectType="comment"
+        subType="social/commons/components/comments/comment"/>
+    <target
+        jcr:primaryType="nt:unstructured"
+        displayName="I finally gave in and got poles."
+        id="/content/geometrixx-outdoors/en/community/hiking/journal/2012/12/i_finally_gave_inan"
+        objectType="geometrixx-outdoors/components/journal/page"/>
+</jcr:root>

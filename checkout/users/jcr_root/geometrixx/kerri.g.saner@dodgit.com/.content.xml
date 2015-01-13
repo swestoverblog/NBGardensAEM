@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-09-30T10:14:09.251+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="7f04b3e2-7767-3cbb-8857-98b24295ad2a"
+    rep:password="\{SHA-256}90ec19355bfaee12-1000-70821543a1c749e80f1491ae3bc61f2bc7ace13562ca26c23cce787fac944fc7"
+    rep:principalName="kerri.g.saner@dodgit.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        birthday="{Date}1970-12-22T00:00:00.000+01:00"
+        city="Boston"
+        email="Kerri.G.Saner@dodgit.com"
+        familyName="Saner"
+        gender="female"
+        givenName="Kerri"
+        jobTitle="Meat packer"
+        middleName="G"
+        phoneNumber="978-935-5018"
+        postalCode="2110"
+        region="MA"
+        streetAddress="294 Russell Street">
+        <photos/>
+    </profile>
+</jcr:root>

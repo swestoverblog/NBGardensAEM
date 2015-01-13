@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:created="{Date}2012-12-04T15:00:17.621+01:00"
+    jcr:createdBy="josh.bradley@pookmail.com"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="josh.bradley@pookmail.com POST on Welcome to the winter sports community (and lets talk snowshoes)!"
+    sling:resourceType="granite/activitystreams/components/activity"
+    verb="POST">
+    <object
+        jcr:description="That sounds great. Just let me know what you decide."
+        jcr:primaryType="nt:unstructured"
+        id="/content/usergenerated/content/geometrixx-outdoors/en/community/winter-sports/journal/2012/12/welcome_to_the_winte/jcr:content/comments/1Bucket/ccrz-that_soundsgreatj"
+        objectType="comment"
+        subType="social/commons/components/comments/comment"/>
+    <target
+        jcr:primaryType="nt:unstructured"
+        displayName="Welcome to the winter sports community (and lets talk snowshoes)!"
+        id="/content/geometrixx-outdoors/en/community/winter-sports/journal/2012/12/welcome_to_the_winte"
+        objectType="geometrixx-outdoors/components/journal/page"/>
+</jcr:root>

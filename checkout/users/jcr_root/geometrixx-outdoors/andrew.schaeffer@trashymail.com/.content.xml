@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="ad2f92ae-0748-3a89-ad2f-b5e019c64397"
+    rep:password="\{SHA-256}cc703da7bc8f3757-1000-7dafe95b747049bbe49a4707f94e019a53e554e9ea225a82e739b3b8eff83c21"
+    rep:principalName="andrew.schaeffer@trashymail.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="andrew.schaeffer@trashymail.com"
+        familyName="Schaeffer"
+        gender="male"
+        givenName="Andrew">
+        <forum/>
+        <photos/>
+        <scoring/>
+        <segments/>
+    </profile>
+</jcr:root>

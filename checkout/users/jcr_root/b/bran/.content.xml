@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="2b46a773-90e4-3bc7-ac17-97532c60f4b0"
+    rep:password="\{SHA-256}a66b6ce62fe373f2-1000-705914cda926c973d6791061312b9870a8e9378f578fc4c1466f93eaa655cf32"
+    rep:principalName="bran">
+    <_x002e_tokens jcr:primaryType="nt:unstructured">
+        <_x0032_015-01-13T09.04.01.439Z
+            jcr:primaryType="nt:unstructured"
+            _x002e_token.exp="{Date}2015-01-13T21:04:01.439Z"
+            _x002e_token.key="\{sha1}a61c1eb6a833f615fd94bb365a0d18db49996df2"
+            ip="192.168.25.113"
+            referer="http://192.168.25.115:4502/libs/granite/core/content/login.html?resource=%2F&amp;$$login$$=%24%24login%24%24"
+            useragent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"/>
+    </_x002e_tokens>
+    <preferences
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq:Preferences"/>
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        familyName="lkee"/>
+</jcr:root>

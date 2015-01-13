@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-09-30T10:12:46.355+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="2d0a0d68-94f1-3e71-9df0-fd90fc6b9412"
+    rep:password="\{SHA-256}b1b613d25fa1d69c-1000-50b9257c92f29fd4d17a806eac4a866c3e06b75bb19507a07510fcdaf351e036"
+    rep:principalName="keith.m.mabry@spambob.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        birthday="{Date}1961-08-26T00:00:00.000+01:00"
+        city="Cincinnati"
+        email="Keith.M.Mabry@spambob.com"
+        familyName="Mabry"
+        gender="male"
+        givenName="Keith"
+        jobTitle="Psychologist"
+        middleName="M"
+        phoneNumber="513-445-6573"
+        postalCode="45202"
+        region="OH"
+        streetAddress="1233 Goldie Lane">
+        <photos/>
+    </profile>
+</jcr:root>

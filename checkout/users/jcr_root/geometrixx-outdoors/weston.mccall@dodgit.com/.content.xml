@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="4a571b14-006a-307a-a768-7822e7897aaf"
+    rep:password="\{SHA-256}3ff564c18c52aa1c-1000-fc71b266b42afb4b776c4df2a6bfe328af0e61e4ca4154a585d29ff6d862f6dc"
+    rep:principalName="weston.mccall@dodgit.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="weston.mccall@dodgit.com"
+        familyName="McCall"
+        gender="male"
+        givenName="Weston">
+        <forum/>
+        <photos/>
+        <scoring/>
+        <segments/>
+    </profile>
+</jcr:root>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2014-12-29T18:46:53.134Z"
+        cq:lastModifiedBy="admin"
+        cq:lastReplicated="{Date}2015-01-11T16:11:42.345-08:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/nbgardenswebproject/templates/mysqlTemplate2"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Add Product"
+        jcr:uuid="353114c9-efc5-4395-997d-964faa309f52"
+        sling:resourceType="nbgardenswebproject/components/mysqlTemplate2"/>
+    <rep:policy/>
+</jcr:root>

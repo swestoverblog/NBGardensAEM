@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:created="{Date}2012-12-04T14:59:17.774+01:00"
+    jcr:createdBy="jason.werner@dodgit.com"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="jason.werner@dodgit.com POST on Welcome to the winter sports community (and lets talk snowshoes)!"
+    sling:resourceType="granite/activitystreams/components/activity"
+    verb="POST">
+    <object
+        jcr:description="Josh, thanks for setting up the winter sports community! Also, thanks for letting people know about the hiking community calendar. I’m sure my kids and I will be interested in your class and maybe even making some snowshoes."
+        jcr:primaryType="nt:unstructured"
+        id="/content/usergenerated/content/geometrixx-outdoors/en/community/winter-sports/journal/2012/12/welcome_to_the_winte/jcr:content/comments/1Bucket/ila5-josh_thanksforset"
+        objectType="comment"
+        subType="social/commons/components/comments/comment"/>
+    <target
+        jcr:primaryType="nt:unstructured"
+        displayName="Welcome to the winter sports community (and lets talk snowshoes)!"
+        id="/content/geometrixx-outdoors/en/community/winter-sports/journal/2012/12/welcome_to_the_winte"
+        objectType="geometrixx-outdoors/components/journal/page"/>
+</jcr:root>

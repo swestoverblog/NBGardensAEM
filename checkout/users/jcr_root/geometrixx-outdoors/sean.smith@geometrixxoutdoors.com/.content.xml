@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="c6d1f00c-e4ac-31bd-8423-bdcd6c9bf909"
+    rep:password="\{SHA-256}b5af3a3ae11adb91-1000-676ab10e0a3791fad58a2af84689ee9daf8da1443dcdefc1dc92ce414df98e93"
+    rep:principalName="sean.smith@geometrixxoutdoors.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="sean.smith@geometrixxoutdoors.com"
+        familyName="Smith"
+        gender="male"
+        givenName="Sean">
+        <forum/>
+        <photos/>
+        <scoring/>
+        <segments/>
+    </profile>
+</jcr:root>

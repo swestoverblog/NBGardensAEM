@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-09-30T10:12:02.441+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="1c901b74-256e-3c54-8b45-f3e89f6e85a7"
+    rep:password="\{SHA-256}9f0da833f0050f45-1000-e704d03088f5274ef8f0530fd6976ed537d95fb6b855520f1357b5b0484461c8"
+    rep:principalName="iris.r.mccoy@mailinator.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        birthday="{Date}1974-05-02T00:00:00.000+01:00"
+        city="Washington"
+        email="Iris.R.Mccoy@mailinator.com"
+        familyName="Mccoy"
+        followers="[laura.j.richardson@pookmail.com]"
+        friends="[jdoe@geometrixx.info,larry.a.spiller@pookmail.com]"
+        gender="female"
+        givenName="Iris"
+        jobTitle="Laboratory animal technologist"
+        middleName="R"
+        phoneNumber="202-219-9912"
+        postalCode="20005"
+        region="DC"
+        streetAddress="1263 Northwest Boulevard">
+        <photos/>
+    </profile>
+</jcr:root>

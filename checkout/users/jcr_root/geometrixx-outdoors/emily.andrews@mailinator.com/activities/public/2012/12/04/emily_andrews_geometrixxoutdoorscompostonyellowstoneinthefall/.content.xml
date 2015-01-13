@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:created="{Date}2012-12-04T14:23:48.429+01:00"
+    jcr:createdBy="emily.andrews@mailinator.com"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="emily.andrews@mailinator.com POST on Yellowstone in the fall"
+    sling:resourceType="granite/activitystreams/components/activity"
+    verb="POST">
+    <object
+        jcr:description="Sounds like fun! I can usually handle cold hikes, and I am getting better about layering so I have everything I need, but I’m not packing too much on my back at the same time. Is it windy, too? Or just cold?"
+        jcr:primaryType="nt:unstructured"
+        id="/content/usergenerated/content/geometrixx-outdoors/en/community/hiking/journal/2012/12/yellowstone_in_thef/jcr:content/comments/1Bucket/muhv-sounds_likefunic"
+        objectType="comment"
+        subType="social/commons/components/comments/comment"/>
+    <target
+        jcr:primaryType="nt:unstructured"
+        displayName="Yellowstone in the fall"
+        id="/content/geometrixx-outdoors/en/community/hiking/journal/2012/12/yellowstone_in_thef"
+        objectType="geometrixx-outdoors/components/journal/page"/>
+</jcr:root>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="345bef9b-ffa1-3e09-85df-1e03cfa0fb37"
+    rep:disabled="Please change the default password before enabling and using this user as replication transport agent."
+    rep:password="\{sha1}4410791bef7ce178-523cfb291ffc106b9b5825cc21220dd9d7a9100f"
+    rep:principalName="replication-receiver">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"/>
+</jcr:root>

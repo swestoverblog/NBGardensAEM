@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-09-30T10:07:18.013+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="a483cace-ee3e-3b05-b207-9df7dee206f6"
+    rep:password="\{SHA-256}5e6780b3e597402f-1000-8aabac9e13996c902e2908c78eff4e380f44668db886ce93fa237ce78fc363a0"
+    rep:principalName="olive.d.pixley@spambob.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        birthday="{Date}1986-11-11T00:00:00.000+01:00"
+        city="Joliet"
+        email="Olive.D.Pixley@spambob.com"
+        familyName="Pixley"
+        gender="female"
+        givenName="Olive"
+        jobTitle="Upholsterer"
+        middleName="D"
+        phoneNumber="815-725-7966"
+        postalCode="60435"
+        region="IL"
+        streetAddress="3465 Spinnaker Lane">
+        <photos/>
+    </profile>
+</jcr:root>

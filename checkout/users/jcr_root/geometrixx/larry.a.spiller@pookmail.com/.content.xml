@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-09-30T10:13:17.724+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="2b61e6e7-bd54-3933-bedc-bc3dad4e52ee"
+    rep:password="\{SHA-256}7b68abff82179807-1000-2b0dc243d22d6ced894334695cc4495c416f6654f10932b47c6420cd6bc04957"
+    rep:principalName="larry.a.spiller@pookmail.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        birthday="{Date}1984-05-08T00:00:00.000+01:00"
+        city="Roanoke"
+        email="Larry.A.Spiller@pookmail.com"
+        familyName="Spiller"
+        followers="[charles.s.johnson@trashymail.com,scott.b.reynolds@dodgit.com,iris.r.mccoy@mailinator.com,olive.d.pixley@spambob.com,jdoe@geometrixx.info,carlene.j.avery@mailinator.com]"
+        friends="[laura.j.richardson@pookmail.com,ivan.l.parrino@mailinator.com]"
+        gender="male"
+        givenName="Larry"
+        jobTitle="Certified pest control applicator"
+        middleName="A"
+        phoneNumber="817-490-6956"
+        postalCode="76262"
+        region="TX"
+        streetAddress="2370 Jones Street">
+        <forum jcr:primaryType="nt:unstructured"/>
+        <photos/>
+    </profile>
+</jcr:root>

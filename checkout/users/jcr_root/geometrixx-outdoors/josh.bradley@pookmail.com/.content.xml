@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="6348376c-98a6-35fc-982d-aa502bd4d1e8"
+    rep:password="\{SHA-256}f9f82aa75be06f12-1000-4676e35c8cf5e61a3a28fcc59fb3a80d89fb2d59e60735bbb7c0f6cab8b44b91"
+    rep:principalName="josh.bradley@pookmail.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="josh.bradley@pookmail.com"
+        familyName="Bradley"
+        gender="male"
+        givenName="Josh">
+        <forum/>
+        <photos/>
+        <scoring/>
+        <segments/>
+    </profile>
+</jcr:root>

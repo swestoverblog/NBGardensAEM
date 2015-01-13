@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AEM Training Package Package</comment>
+<entry key="createdBy">scott</entry>
+<entry key="name">users-content</entry>
+<entry key="created">2015-01-12T07:16:15.433-0800</entry>
+<entry key="groupId">com.aem.users</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">adobe training</entry>
+<entry key="description">Maven Multimodule project for AEM Training Package.</entry>
+<entry key="artifactId">users-content</entry>
+<entry key="path">/etc/packages/adobe training/users-content.zip</entry>
+</properties>

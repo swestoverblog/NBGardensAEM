@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:lastModified="{Date}2012-12-12T22:17:06.788-08:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:Group"
+    jcr:uuid="069135c2-6126-3318-bc21-82c279907483"
+    rep:members="{WeakReference}[96019592-ee9b-3901-8384-74fe9b519bfe,0be50029-0b70-3f7a-9449-3834b63b0bb4,ad2f92ae-0748-3a89-ad2f-b5e019c64397,27c55f02-efd9-39da-a63d-bb455048cd27,62d3c1ca-45a9-310e-aafc-add10a73bb35]"
+    rep:principalName="hiking-admins">
+    <preferences
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq:Preferences"/>
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        givenName="hiking-admins"/>
+</jcr:root>

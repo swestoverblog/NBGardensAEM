@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-09-30T10:10:57.025+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="ed5bca7e-81ae-34b1-933c-added49d3177"
+    rep:password="\{SHA-256}ba2e55db6ee80bbc-1000-ceecf7c028ddde22592b69b6f0762008761668277545521cd02cc96af1a411c8"
+    rep:principalName="willie.a.melton@dodgit.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        birthday="{Date}1990-04-21T00:00:00.000+01:00"
+        city="Ketchikan"
+        email="Willie.A.Melton@dodgit.com"
+        familyName="Melton"
+        gender="female"
+        givenName="Willie"
+        jobTitle="Human resources assistant"
+        middleName="A"
+        phoneNumber="907-247-4727"
+        postalCode="99901"
+        region="AK"
+        streetAddress="4218 Veltri Drive">
+        <photos/>
+    </profile>
+</jcr:root>

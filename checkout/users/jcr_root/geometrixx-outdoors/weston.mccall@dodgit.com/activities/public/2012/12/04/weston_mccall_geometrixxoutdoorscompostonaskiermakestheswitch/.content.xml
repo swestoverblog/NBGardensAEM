@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:created="{Date}2012-12-04T15:12:05.504+01:00"
+    jcr:createdBy="weston.mccall@dodgit.com"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="weston.mccall@dodgit.com POST on A skier makes the switch"
+    sling:resourceType="granite/activitystreams/components/activity"
+    verb="POST">
+    <object
+        jcr:description="Are you buying a snowboard or just renting for the first few times? If you are looking to buy, I would suggest checking out the Whistler Snow snowboard. It’s a fantastic board at a great price, and a good option for “beginners.”"
+        jcr:primaryType="nt:unstructured"
+        id="/content/usergenerated/content/geometrixx-outdoors/en/community/winter-sports/journal/2012/12/a_skier_makes_thesw/jcr:content/comments/1Bucket/gne3-are_you_buyingasno"
+        objectType="comment"
+        subType="social/commons/components/comments/comment"/>
+    <target
+        jcr:primaryType="nt:unstructured"
+        displayName="A skier makes the switch"
+        id="/content/geometrixx-outdoors/en/community/winter-sports/journal/2012/12/a_skier_makes_thesw"
+        objectType="geometrixx-outdoors/components/journal/page"/>
+</jcr:root>

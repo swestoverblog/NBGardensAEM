@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:created="{Date}2012-12-04T14:37:27.803+01:00"
+    jcr:createdBy="sean.smith@geometrixxoutdoors.com"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="sean.smith@geometrixxoutdoors.com POST on Enjoying the redwoods"
+    sling:resourceType="granite/activitystreams/components/activity"
+    verb="POST">
+    <object
+        jcr:description="Good for you, man.  How strenuous is the hike?"
+        jcr:primaryType="nt:unstructured"
+        id="/content/usergenerated/content/geometrixx-outdoors/en/community/hiking/journal/2012/12/enjoying_the_redwood/jcr:content/comments/1Bucket/h9co-good_for_youman"
+        objectType="comment"
+        subType="social/commons/components/comments/comment"/>
+    <target
+        jcr:primaryType="nt:unstructured"
+        displayName="Enjoying the redwoods"
+        id="/content/geometrixx-outdoors/en/community/hiking/journal/2012/12/enjoying_the_redwood"
+        objectType="geometrixx-outdoors/components/journal/page"/>
+</jcr:root>

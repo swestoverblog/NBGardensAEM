@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2015-01-12T11:22:08.276Z"
+        cq:lastModifiedBy="admin"
+        cq:lastReplicated="{Date}2015-01-11T16:11:43.928-08:00"
+        cq:lastReplicatedBy="admin"
+        cq:lastReplicationAction="Activate"
+        cq:template="/apps/nbgardenswebproject/templates/nbtemplateAdmin"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Help Page"
+        jcr:uuid="dd63e661-b623-41ac-a547-484131964640"
+        sling:resourceType="nbgardenswebproject/components/page/nbtemplateAdmin">
+        <par
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <text
+                jcr:created="{Date}2015-01-09T17:18:18.322Z"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2015-01-09T17:25:16.134Z"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/text"
+                text="&lt;p>&lt;b>Products Page &amp;amp; Custom Products Page&lt;/b>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>You can sort the database of products by ID, Name, Type, Description, Quantity, and Price.&lt;/li>&#xa;&lt;li>Click on the little arrow icon next to the column header to sort either in ascending or descending order.&lt;/li>&#xa;&lt;li>On the show entries, click the drop down arrow to display a menu of how many items to display on a page.&lt;/li>&#xa;&lt;li>The previous and next buttons will load the next page of products.&lt;/li>&#xa;&lt;li>Click in the Search box to search the table of products.&lt;/li>&#xa;&lt;li>To delete an item from the database you must first select a row in the database, and then click the delete button.&lt;/li>&#xa;&lt;li>To modify an item from the database you must first select a row in the database, and then click the edit button.&lt;/li>&#xa;&lt;/ul>&#xa;"
+                textIsRich="true"/>
+            <text_0
+                jcr:created="{Date}2015-01-09T17:25:19.927Z"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2015-01-12T11:22:08.273Z"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/text"
+                text="&lt;p>&lt;b>Custom Products Page&lt;/b>&lt;/p>&#xa;&lt;ul>&#xa;&lt;li>The custom products page will only show items from the database that are customizable.&lt;/li>&#xa;&lt;li>When adding products that are customizable, the product name should end in [CUST].&lt;/li>&#xa;&lt;li>Example: Cool Gnome[CUST].&lt;/li>&#xa;&lt;/ul>&#xa;"
+                textIsRich="true"/>
+        </par>
+    </jcr:content>
+    <rep:policy/>
+</jcr:root>

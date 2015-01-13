@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-09-30T10:11:52.213+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="b1e1d3c3-983c-33d6-811c-18d2a8824e03"
+    rep:password="\{SHA-256}048085312949b0c7-1000-33fa96c5331fbf10c872a98715a987597066e925a04af2855044727402f92705"
+    rep:principalName="charles.s.johnson@trashymail.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        birthday="{Date}1970-05-26T00:00:00.000+01:00"
+        city="Seattle"
+        email="Charles.S.Johnson@trashymail.com"
+        familyName="Johnson"
+        gender="male"
+        givenName="Charles"
+        jobTitle="Piano repairer"
+        middleName="S"
+        phoneNumber="360-347-2443"
+        postalCode="98161"
+        region="WA"
+        streetAddress="1763 Terra Street">
+        <photos/>
+    </profile>
+</jcr:root>

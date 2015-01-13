@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;CQSQLBundleNew&apos;" deleteContents="true" description="Delete resource &apos;CQSQLBundleNew&apos;" element1="/CQSQLBundleNew" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1421072850726"/>&#x0A;<refactoring comment="Delete resource &apos;CQSQLBundleNew&apos;" deleteContents="true" description="Delete resource &apos;CQSQLBundleNew&apos;" element1="/CQSQLBundleNew" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1421078567973"/>
+</session>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:created="{Date}2012-12-04T14:32:08.033+01:00"
+    jcr:createdBy="ryan.palmer@spambob.com"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="ryan.palmer@spambob.com POST on I finally gave in and got poles."
+    sling:resourceType="granite/activitystreams/components/activity"
+    verb="POST">
+    <object
+        jcr:description="Weston, I did s lot of research on this. For those who would like to know, a very exhaustive study found that hiking (or trekking) poles reduce stress on lower joints by as much as 25%, help extend muscle endurance, and decrease soreness the next day. Needless to say, I never hike without mine."
+        jcr:primaryType="nt:unstructured"
+        id="/content/usergenerated/content/geometrixx-outdoors/en/community/hiking/journal/2012/12/i_finally_gave_inan/jcr:content/comments/1Bucket/qysf-weston_i_didslot"
+        objectType="comment"
+        subType="social/commons/components/comments/comment"/>
+    <target
+        jcr:primaryType="nt:unstructured"
+        displayName="I finally gave in and got poles."
+        id="/content/geometrixx-outdoors/en/community/hiking/journal/2012/12/i_finally_gave_inan"
+        objectType="geometrixx-outdoors/components/journal/page"/>
+</jcr:root>

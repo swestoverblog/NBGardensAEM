@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="9253def2-e0b5-3b5c-ad02-0f7d79848d83"
+    rep:password="\{SHA-256}79cebb056fb01440-1000-42bb143b64949d17ca639b9110ae8767be42da010256e611e94e1cab520eb55e"
+    rep:principalName="ryan.palmer@spambob.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="ryan.palmer@spambob.com"
+        familyName="Palmer"
+        gender="male"
+        givenName="Ryan">
+        <forum/>
+        <photos/>
+        <scoring/>
+        <segments/>
+    </profile>
+</jcr:root>

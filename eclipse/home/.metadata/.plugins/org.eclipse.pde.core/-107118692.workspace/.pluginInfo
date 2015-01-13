@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="457" localization="OSGI-INF/l10n/bundle" name="CQSQLBunldeNew" project="CQSQLBunldeNew"/>
+	<bundle bundleID="403" localization="OSGI-INF/l10n/bundle" name="CQSQLBundle2" project="CQSQLBundle2"/>
+	<bundle bundleID="404" localization="OSGI-INF/l10n/bundle" name="CQSQLBundle" project="CQSQLBundle"/>
+	<bundle bundleID="405" localization="OSGI-INF/l10n/bundle" name="CustomerJDBC10" project="CustomerJDBC10"/>
+	<bundle bundleID="406" localization="OSGI-INF/l10n/bundle" name="CQJDBPBundleTest" project="CQJDBPBundleTest"/>
+	<bundle bundleID="460" localization="OSGI-INF/l10n/bundle" name="CQSQLUpdate" project="CQSQLUpdate"/>
+</map>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-09-30T10:13:37.452+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="19a624f0-8807-3ecb-a5e9-9ff38f41d1bd"
+    rep:password="\{SHA-256}c971a0d6f12cfe64-1000-adee106aedfa4b204a72d74b5f4e348af33a3bf475d581eaebe3272a3805b29e"
+    rep:principalName="scott.b.reynolds@dodgit.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        birthday="{Date}1960-02-05T00:00:00.000+01:00"
+        city="Houston"
+        email="Scott.B.Reynolds@dodgit.com"
+        familyName="Reynolds"
+        followers="[charles.s.johnson@trashymail.com,laura.j.richardson@pookmail.com,olive.d.pixley@spambob.com,larry.a.spiller@pookmail.com,jdoe@geometrixx.info,ivan.l.parrino@mailinator.com]"
+        friends="[carlene.j.avery@mailinator.com,zachary.w.mitchell@spambob.com,iris.r.mccoy@mailinator.com]"
+        gender="male"
+        givenName="Scott"
+        jobTitle="University professor"
+        middleName="B"
+        phoneNumber="281-570-2155"
+        postalCode="77028"
+        region="TX"
+        streetAddress="283 Bird Spring Lane">
+        <photos/>
+    </profile>
+</jcr:root>

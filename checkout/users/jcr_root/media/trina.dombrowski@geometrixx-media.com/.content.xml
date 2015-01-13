@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:lastModified="{Date}2013-01-07T15:03:57.077-05:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="5cfa42f5-1b71-37e8-9e11-46b4c61fe6c9"
+    rep:password="\{SHA-256}b5c5b21dca839564-1000-b7f73af73d3e752531283e6ad65894b855d7c8561ba680e0e76fa90995598867"
+    rep:principalName="trina.dombrowski@geometrixx-media.com">
+    <_x002e_tokens jcr:primaryType="nt:unstructured"/>
+    <preferences
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq:Preferences"/>
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        email="trina.dombrowski@geometrixx-media.com"
+        familyName="Dombrowski"
+        givenName="Trina"/>
+</jcr:root>

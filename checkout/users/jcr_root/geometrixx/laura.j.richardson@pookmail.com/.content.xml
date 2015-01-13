@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-09-30T10:12:52.627+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="637d4ebc-4c0d-30b2-b6a2-b2bbe675e14e"
+    rep:password="\{SHA-256}d5f6a4ae6e05cdaa-1000-e62cbb1efde8b552ea4321e7c24e9fabe689591dd99bb9ec58dea924e4af75d1"
+    rep:principalName="laura.j.richardson@pookmail.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        birthday="{Date}1968-03-01T00:00:00.000+01:00"
+        city="Lafayette"
+        email="Laura.J.Richardson@pookmail.com"
+        familyName="Richardson"
+        followers="[]"
+        friends="[larry.a.spiller@pookmail.com]"
+        gender="female"
+        givenName="Laura"
+        jobTitle="Homemaker"
+        middleName="J"
+        phoneNumber="337-207-7603"
+        postalCode="70506"
+        region="LA"
+        streetAddress="1595 Sherwood Circle">
+        <photos/>
+    </profile>
+</jcr:root>

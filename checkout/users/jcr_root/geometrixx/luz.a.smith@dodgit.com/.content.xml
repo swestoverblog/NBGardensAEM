@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    cq:authorizableCategory="mcm"
+    cq:lastModified="{Date}2010-09-30T10:13:13.421+02:00"
+    cq:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="rep:User"
+    jcr:uuid="36b86934-f6d1-356b-a8d8-5d1fa732e8a7"
+    rep:password="\{SHA-256}1e135d486d2947e9-1000-6738c401d96737971e8ba215c930b403b01e5b58dd22782c0f561b7c3bce150a"
+    rep:principalName="luz.a.smith@dodgit.com">
+    <profile
+        jcr:primaryType="nt:unstructured"
+        sling:resourceType="cq/security/components/profile"
+        birthday="{Date}1989-05-08T00:00:00.000+01:00"
+        city="New York"
+        email="Luz.A.Smith@dodgit.com"
+        familyName="Smith"
+        gender="female"
+        givenName="Luz"
+        jobTitle="Enlisted personnel"
+        middleName="A"
+        phoneNumber="718-280-1892"
+        postalCode="10011"
+        region="NY"
+        streetAddress="487 Alfred Drive">
+        <photos/>
+    </profile>
+</jcr:root>
