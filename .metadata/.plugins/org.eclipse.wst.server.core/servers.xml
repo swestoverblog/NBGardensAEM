@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<servers>
-  <server auto-publish-time="0" configuration-id="/Servers/localhost-config" hostname="localhost" id="localhost" launchpad.bundle.org.apache.sling.tooling.support.install.version="1.0.0" launchpad.contextPath="/" launchpad.debugPort="10250" launchpad.installLocally="true" launchpad.password="admin" launchpad.port="4502" launchpad.username="admin" name="localhost" runtime-id="Adobe Experience Manager" server-type="org.apache.sling.ide.launchpadServer" server-type-id="org.apache.sling.ide.launchpadServer" start-timeout="30" stop-timeout="15" timestamp="9">
-    <list key="modules" value0="aemproject.core::org.apache.sling.ide.bundleModuleFactory:aemproject.core::sling.bundle::1.0" value1="aemproject.ui.apps::org.apache.sling.ide.contentModuleFactory:aemproject.ui.apps::sling.content::1.0" value2="aemproject.ui.content::org.apache.sling.ide.contentModuleFactory:aemproject.ui.content::sling.content::1.0"/>
-  </server>
-</servers>

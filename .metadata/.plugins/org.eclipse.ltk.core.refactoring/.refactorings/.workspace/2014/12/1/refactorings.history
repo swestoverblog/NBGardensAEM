@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;aemproject/ui.content/src/main/content/jcr_root/content/aemnbgardens/en/login&apos;" deleteContents="false" description="Delete resource &apos;aemproject/ui.content/src/main/content/jcr_root/content/aemnbgardens/en/login&apos;" element1="/aemproject/ui.content/src/main/content/jcr_root/content/aemnbgardens/en/login" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1419857544430"/>
-</session>
